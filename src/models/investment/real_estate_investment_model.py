@@ -1,3 +1,10 @@
+"""
+InvestmentModel: Core model for real estate investment analysis
+
+This module contains the core model logic for analyzing real estate investment opportunities,
+predicting fair market values, and calculating investment scores.
+"""
+
 import pandas as pd
 import numpy as np
 from sklearn.ensemble import RandomForestRegressor
@@ -6,185 +13,13 @@ from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-
-# Example usage to demonstrate the model
-def demonstrate_model():
-    """Example usage of the Real Estate Investment Model."""
-    # Create sample data
-    sample_properties = [
-        {
-            'area_name': 'Downtown',
-            'size_sqft': 1200,
-            'bed': 2,
-            'bath': 2,
-            'amenities': ['Pool', 'Gym', 'Parking', 'Security'],
-            'annual_rental_price': 120000,
-            'property_price': 1500000,
-            'property_type': 'Apt'
-        },
-        {
-            'area_name': 'Marina',
-            'size_sqft': 1500,
-            'bed': 3,
-            'bath': 2.5,
-            'amenities': ['Pool', 'Gym', 'Parking', 'Security', 'Sea View', 'Balcony'],
-            'annual_rental_price': 160000,
-            'property_price': 2200000,
-            'property_type': 'Apt'
-        },
-        {
-            'area_name': 'Suburbs',
-            'size_sqft': 2200,
-            'bed': 4,
-            'bath': 3,
-            'amenities': ['Garden', 'Parking', 'Security'],
-            'annual_rental_price': 180000,
-            'property_price': 2800000,
-            'property_type': 'Villa'
-        },
-        {
-            'area_name': 'Downtown',
-            'size_sqft': 950,
-            'bed': 1,
-            'bath': 1.5,
-            'amenities': ['Pool', 'Gym', 'Parking'],
-            'annual_rental_price': 95000,
-            'property_price': 1100000,
-            'property_type': 'Apt'
-        },
-        {
-            'area_name': 'Marina',
-            'size_sqft': 2800,
-            'bed': 4,
-            'bath': 4.5,
-            'amenities': ['Pool', 'Gym', 'Parking', 'Security', 'Sea View', 'Smart Home', 'Concierge'],
-            'annual_rental_price': 320000,
-            'property_price': 4500000,
-            'property_type': 'Villa'
-        },
-        {
-            'area_name': 'Business Bay',
-            'size_sqft': 1800,
-            'bed': 3,
-            'bath': 3,
-            'amenities': ['Pool', 'Gym', 'Parking', 'Security', 'Balcony'],
-            'annual_rental_price': 170000,
-            'property_price': 2400000,
-            'property_type': 'Apt'
-        },
-        {
-            'area_name': 'Palm Jumeirah',
-            'size_sqft': 3200,
-            'bed': 4,
-            'bath': 5,
-            'amenities': ['Pool', 'Gym', 'Parking', 'Security', 'Sea View', 'Smart Home', 'Private Beach', 'Garden'],
-            'annual_rental_price': 450000,
-            'property_price': 7500000,
-            'property_type': 'Villa'
-        }
-    ]
-    
-    # Create DataFrame
-    property_df = pd.DataFrame(sample_properties)
-    
-    # Initialize model
-    model = RealEstateInvestmentModel()
-    
-    # Load data
-    model.load_data(dataframe=property_df)
-    
-    # Display basic statistics
-    print("\n--- Property Dataset Overview ---")
-    print(model.properties_df[['area_name', 'property_type', 'size_sqft', 'bed', 'bath', 'property_price', 'annual_rental_price']].head())
-    
-    # Display derived metrics
-    print("\n--- Derived Property Metrics ---")
-    print(model.properties_df[['area_name', 'property_type', 'price_per_sqft', 'rental_yield', 'price_to_rent_ratio']].head())
-    
-    # Calculate market averages
-    averages = model._calculate_market_averages()
-    print("\n--- Market Averages ---")
-    print(f"Overall Avg Price per Sqft: {averages['overall']['avg_price_per_sqft']:.2f}")
-    print(f"Overall Avg Rental Yield: {averages['overall']['avg_rental_yield']:.2f}%")
-    
-    # Analyze a specific property
-    print("\n--- Property Analysis ---")
-    property_idx = 0  # First property
-    valuation = model.predict_fair_market_value(property_idx)
-    rental = model.predict_optimal_rental(property_idx)
-    investment_score = model.calculate_investment_score(property_idx)
-    
-    property_name = f"{model.properties_df.iloc[property_idx]['area_name']} {model.properties_df.iloc[property_idx]['property_type']}"
-    
-    print(f"Property: {property_name}")
-    print(f"Current Price: {valuation['current_value']:.2f}")
-    print(f"Fair Market Value: {valuation['fair_market_value']:.2f}")
-    print(f"Undervalued: {valuation['undervalued']}")
-    print(f"Value Difference: {valuation['value_difference']:.2f} ({valuation['value_difference_percent']:.2f}%)")
-    
-    print(f"\nCurrent Annual Rent: {rental['current_annual_rental']:.2f}")
-    print(f"Optimal Annual Rent: {rental['optimal_annual_rental']:.2f}")
-    print(f"Rental Upside: {rental['rental_upside']}")
-    print(f"Rental Difference: {rental['rental_difference']:.2f} ({rental['rental_difference_percent']:.2f}%)")
-    
-    print(f"\nOverall Investment Score: {investment_score['overall_score']:.2f}/100")
-    print(f"Valuation Score: {investment_score['valuation_score']:.2f}/40")
-    print(f"Yield Score: {investment_score['yield_score']:.2f}/30")
-    print(f"Rental Upside Score: {investment_score['rental_upside_score']:.2f}/20")
-    print(f"Location Score: {investment_score['location_score']:.2f}/10")
-    
-    # Find top investment opportunities
-    print("\n--- Top Investment Opportunities ---")
-    top_opps = model.find_top_opportunities(count=3)
-    for i, opp in enumerate(top_opps, 1):
-        prop = opp['property']
-        score = opp['score']
-        print(f"{i}. {prop['area_name']} {prop['property_type']} - Score: {score['overall_score']:.2f}/100")
-        print(f"   Size: {prop['size_sqft']} sqft, Beds: {prop['bed']}, Baths: {prop['bath']}")
-        print(f"   Price: {prop['property_price']}, Annual Rent: {prop['annual_rental_price']}")
-        print(f"   Rental Yield: {prop['rental_yield']:.2f}%")
-        if score['details']['valuation']['undervalued']:
-            print(f"   Undervalued by: {score['details']['valuation']['value_difference_percent']:.2f}%")
-        print()
-    
-    # Find highest yield properties
-    print("\n--- Highest Yield Properties ---")
-    high_yield = model.find_highest_yield_properties(count=3)
-    for i, (_, prop) in enumerate(high_yield.iterrows(), 1):
-        print(f"{i}. {prop['area_name']} {prop['property_type']} - Yield: {prop['rental_yield']:.2f}%")
-        print(f"   Size: {prop['size_sqft']} sqft, Price: {prop['property_price']}")
-        print()
-    
-    # Find undervalued properties
-    print("\n--- Most Undervalued Properties ---")
-    undervalued = model.find_undervalued_properties(count=3)
-    for i, prop_data in enumerate(undervalued, 1):
-        prop = prop_data['property']
-        val = prop_data['valuation']
-        print(f"{i}. {prop['area_name']} {prop['property_type']}")
-        print(f"   Current Price: {val['current_value']}")
-        print(f"   Fair Market Value: {val['fair_market_value']:.2f}")
-        print(f"   Undervalued by: {val['value_difference_percent']:.2f}%")
-        print()
-    
-    # Visualize market overview
-    model.visualize_market_overview()
-    
-    # Visualize investment opportunities
-    model.visualize_investment_opportunities(top_opps)
-    
-    # Export investment report
-    model.export_investment_report(top_opps, 'investment_opportunities.csv')
-    
-    return model
+import joblib
+import os
 
 
 class RealEstateInvestmentModel:
     """
-    A comprehensive model for analyzing real estate investment opportunities.
+    A model for analyzing real estate investment opportunities.
     
     This model analyzes properties based on various features to identify investment
     opportunities, predict fair market values, optimize rental prices, and calculate
@@ -432,6 +267,41 @@ class RealEstateInvestmentModel:
         
         self.valuation_model = model
         return model
+    
+    def save_model(self, filepath="models/investment/trained_investment_model.pkl"):
+        """
+        Save the trained valuation model to disk.
+        
+        Parameters:
+            filepath (str): Path where to save the model
+            
+        Returns:
+            str: Path to the saved model
+        """
+        if self.valuation_model is None:
+            raise ValueError("No trained model available. Please train the model first.")
+            
+        # Ensure directory exists
+        os.makedirs(os.path.dirname(filepath), exist_ok=True)
+        
+        # Save the model
+        joblib.dump(self.valuation_model, filepath)
+        print(f"Model saved to {filepath}")
+        return filepath
+    
+    def load_model(self, filepath="models/investment/trained_investment_model.pkl"):
+        """
+        Load a trained model from disk.
+        
+        Parameters:
+            filepath (str): Path to the saved model
+            
+        Returns:
+            object: The loaded model
+        """
+        self.valuation_model = joblib.load(filepath)
+        print(f"Model loaded from {filepath}")
+        return self.valuation_model
     
     def train_rental_model(self):
         """
@@ -803,147 +673,6 @@ class RealEstateInvestmentModel:
         # Return top properties
         return undervalued_properties[:count]
     
-    def visualize_market_overview(self):
-        """Generate visualizations of the real estate market data."""
-        if self.properties_df is None or len(self.properties_df) == 0:
-            print("No data available for visualization.")
-            return
-        
-        # Set up the figure with subplots
-        fig, axes = plt.subplots(2, 2, figsize=(16, 12))
-        plt.subplots_adjust(hspace=0.3, wspace=0.3)
-        
-        # 1. Price per sqft by area
-        area_prices = self.properties_df.groupby('area_name')['price_per_sqft'].mean().sort_values()
-        sns.barplot(x=area_prices.index, y=area_prices.values, ax=axes[0, 0])
-        axes[0, 0].set_title('Average Price per Sqft by Area')
-        axes[0, 0].set_xlabel('Area')
-        axes[0, 0].set_ylabel('Price per Sqft')
-        axes[0, 0].tick_params(axis='x', rotation=45)
-        
-        # 2. Rental yield by property type
-        type_yield = self.properties_df.groupby('property_type')['rental_yield'].mean().sort_values()
-        sns.barplot(x=type_yield.index, y=type_yield.values, ax=axes[0, 1])
-        axes[0, 1].set_title('Average Rental Yield by Property Type')
-        axes[0, 1].set_xlabel('Property Type')
-        axes[0, 1].set_ylabel('Rental Yield (%)')
-        
-        # 3. Property price vs. size scatter plot
-        sns.scatterplot(
-            x='size_sqft', 
-            y='property_price', 
-            hue='property_type',
-            data=self.properties_df, 
-            ax=axes[1, 0]
-        )
-        axes[1, 0].set_title('Property Price vs Size')
-        axes[1, 0].set_xlabel('Size (sqft)')
-        axes[1, 0].set_ylabel('Property Price')
-        
-        # 4. Price to rent ratio by area
-        area_ptr = self.properties_df.groupby('area_name')['price_to_rent_ratio'].mean().sort_values()
-        sns.barplot(x=area_ptr.index, y=area_ptr.values, ax=axes[1, 1])
-        axes[1, 1].set_title('Average Price-to-Rent Ratio by Area')
-        axes[1, 1].set_xlabel('Area')
-        axes[1, 1].set_ylabel('Price-to-Rent Ratio')
-        axes[1, 1].tick_params(axis='x', rotation=45)
-        
-        plt.tight_layout()
-        plt.show()
-        
-    def visualize_investment_opportunities(self, top_opportunities):
-        """
-        Visualize top investment opportunities.
-        
-        Parameters:
-            top_opportunities (List[dict]): List of top investment opportunities.
-        """
-        if not top_opportunities:
-            print("No investment opportunities to visualize.")
-            return
-            
-        # Create a DataFrame from the opportunities
-        opp_data = []
-        for opp in top_opportunities:
-            opp_data.append({
-                'area_name': opp['property']['area_name'],
-                'property_type': opp['property']['property_type'],
-                'size_sqft': opp['property']['size_sqft'],
-                'property_price': opp['property']['property_price'],
-                'annual_rental_price': opp['property']['annual_rental_price'],
-                'rental_yield': opp['property']['rental_yield'],
-                'overall_score': opp['score']['overall_score'],
-                'valuation_score': opp['score']['valuation_score'],
-                'yield_score': opp['score']['yield_score'],
-                'rental_upside_score': opp['score']['rental_upside_score'],
-                'location_score': opp['score']['location_score'],
-                'undervalued_percent': opp['score']['details']['valuation']['value_difference_percent']
-            })
-            
-        opp_df = pd.DataFrame(opp_data)
-        
-        # Set up the figure with subplots
-        fig, axes = plt.subplots(2, 2, figsize=(16, 12))
-        plt.subplots_adjust(hspace=0.3, wspace=0.3)
-        
-        # 1. Overall investment score by property
-        sns.barplot(
-            y='area_name', 
-            x='overall_score',
-            data=opp_df.sort_values('overall_score'), 
-            ax=axes[0, 0]
-        )
-        axes[0, 0].set_title('Investment Score by Property')
-        axes[0, 0].set_xlabel('Investment Score (0-100)')
-        axes[0, 0].set_ylabel('Area')
-        
-        # 2. Score breakdown for top property
-        top_property = opp_df.iloc[0]
-        score_breakdown = pd.DataFrame({
-            'Component': ['Valuation', 'Yield', 'Rental Upside', 'Location'],
-            'Score': [
-                top_property['valuation_score'],
-                top_property['yield_score'],
-                top_property['rental_upside_score'],
-                top_property['location_score']
-            ]
-        })
-        sns.barplot(
-            y='Component',
-            x='Score',
-            data=score_breakdown,
-            ax=axes[0, 1]
-        )
-        axes[0, 1].set_title(f'Score Breakdown for Top Property ({top_property["area_name"]})')
-        axes[0, 1].set_xlabel('Score Contribution')
-        
-        # 3. Rental yield vs property price
-        sns.scatterplot(
-            x='property_price',
-            y='rental_yield',
-            size='overall_score',
-            hue='property_type',
-            data=opp_df,
-            ax=axes[1, 0]
-        )
-        axes[1, 0].set_title('Rental Yield vs Property Price')
-        axes[1, 0].set_xlabel('Property Price')
-        axes[1, 0].set_ylabel('Rental Yield (%)')
-        
-        # 4. Undervaluation percentage for top properties
-        sns.barplot(
-            y='area_name',
-            x='undervalued_percent',
-            data=opp_df.sort_values('undervalued_percent', ascending=False),
-            ax=axes[1, 1]
-        )
-        axes[1, 1].set_title('Undervaluation Percentage')
-        axes[1, 1].set_xlabel('Undervalued (%)')
-        axes[1, 1].set_ylabel('Area')
-        
-        plt.tight_layout()
-        plt.show()
-        
     def export_investment_report(self, top_opportunities, output_path='investment_report.csv'):
         """
         Export investment opportunities to a CSV file.

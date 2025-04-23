@@ -1,27 +1,31 @@
+"""
+RentContractModel: Core model for analyzing rental contracts
+
+This module contains the core model logic for analyzing rental contracts and predicting prices.
+Separated from data processing and visualization functions.
+"""
+
 import pandas as pd
 import numpy as np
-from datetime import datetime
-from dateutil.relativedelta import relativedelta
-import matplotlib.pyplot as plt
-import seaborn as sns
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
+import joblib
 
 
-class RentContractAnalysisModel:
+class RentContractModel:
     """
-    A comprehensive model for analyzing rental contracts and predicting optimal rental prices.
+    A model for analyzing rental contracts and predicting optimal rental prices.
     
-    This model analyzes rental contracts based on various features to identify market trends,
-    predict fair rental prices, analyze seasonal patterns, and calculate market metrics.
+    This model focuses on the core analysis and prediction functionality,
+    separating it from data processing and visualization.
     """
     
     def __init__(self):
-        """Initialize the Rent Contract Analysis Model."""
+        """Initialize the Rent Contract Model."""
         self.contracts_df = None
         self.rental_model = None
         self.market_averages = None
@@ -306,6 +310,41 @@ class RentContractAnalysisModel:
         
         self.rental_model = model
         return model
+    
+    def save_model(self, filepath="models/rent_prediction/trained_rent_model.pkl"):
+        """
+        Save the trained model to disk.
+        
+        Parameters:
+            filepath (str): Path where to save the model
+            
+        Returns:
+            str: Path to the saved model
+        """
+        if self.rental_model is None:
+            raise ValueError("No trained model available. Please train the model first.")
+            
+        # Ensure directory exists
+        os.makedirs(os.path.dirname(filepath), exist_ok=True)
+        
+        # Save the model
+        joblib.dump(self.rental_model, filepath)
+        print(f"Model saved to {filepath}")
+        return filepath
+    
+    def load_model(self, filepath="models/rent_prediction/trained_rent_model.pkl"):
+        """
+        Load a trained model from disk.
+        
+        Parameters:
+            filepath (str): Path to the saved model
+            
+        Returns:
+            object: The loaded model
+        """
+        self.rental_model = joblib.load(filepath)
+        print(f"Model loaded from {filepath}")
+        return self.rental_model
     
     def predict_rental_price(self, property_data, use_ml_model=False):
         """
@@ -619,125 +658,6 @@ class RentContractAnalysisModel:
         
         return result
     
-    def visualize_market_overview(self):
-        """Generate visualizations of the rental market data."""
-        if self.contracts_df is None or len(self.contracts_df) == 0:
-            print("No data available for visualization.")
-            return
-        
-        # Set up the figure with subplots
-        fig, axes = plt.subplots(2, 2, figsize=(16, 12))
-        plt.subplots_adjust(hspace=0.3, wspace=0.3)
-        
-        # 1. Average rent by property type
-        type_rents = self.contracts_df.groupby('ejari_property_type_en')['monthly_rent'].mean().sort_values()
-        sns.barplot(x=type_rents.index, y=type_rents.values, ax=axes[0, 0])
-        axes[0, 0].set_title('Average Monthly Rent by Property Type')
-        axes[0, 0].set_xlabel('Property Type')
-        axes[0, 0].set_ylabel('Monthly Rent')
-        axes[0, 0].tick_params(axis='x', rotation=45)
-        
-        # 2. Average rent by property usage
-        usage_rents = self.contracts_df.groupby('property_usage_en')['monthly_rent'].mean().sort_values()
-        sns.barplot(x=usage_rents.index, y=usage_rents.values, ax=axes[0, 1])
-        axes[0, 1].set_title('Average Monthly Rent by Property Usage')
-        axes[0, 1].set_xlabel('Property Usage')
-        axes[0, 1].set_ylabel('Monthly Rent')
-        
-        # 3. Top 10 areas by average rent
-        area_rents = self.contracts_df.groupby('area_name_en')['monthly_rent'].mean().sort_values(ascending=False).head(10)
-        sns.barplot(x=area_rents.values, y=area_rents.index, ax=axes[1, 0])
-        axes[1, 0].set_title('Top 10 Areas by Average Monthly Rent')
-        axes[1, 0].set_xlabel('Monthly Rent')
-        axes[1, 0].set_ylabel('Area')
-        
-        # 4. Seasonal trends (monthly)
-        monthly_trends = self.contracts_df.groupby('contract_month')['monthly_rent'].mean()
-        # Ensure all months are present
-        all_months = pd.Series(index=range(1, 13), data=[monthly_trends.get(m, np.nan) for m in range(1, 13)])
-        sns.lineplot(x=all_months.index, y=all_months.values, ax=axes[1, 1], marker='o')
-        axes[1, 1].set_title('Seasonal Rent Trends by Month')
-        axes[1, 1].set_xlabel('Month')
-        axes[1, 1].set_ylabel('Average Monthly Rent')
-        axes[1, 1].set_xticks(range(1, 13))
-        
-        plt.tight_layout()
-        plt.show()
-        
-    def visualize_rent_trends(self, area=None, property_type=None):
-        """
-        Visualize rental price trends over time.
-        
-        Parameters:
-            area (str, optional): Filter by area name.
-            property_type (str, optional): Filter by property type.
-        """
-        # Get yearly and quarterly trends
-        yearly_trends = self.analyze_rent_trends(area, property_type, 'yearly')
-        quarterly_trends = self.analyze_rent_trends(area, property_type, 'quarterly')
-        
-        if len(yearly_trends) == 0 or len(quarterly_trends) == 0:
-            print("Insufficient data for trend visualization.")
-            return
-        
-        # Set up the figure with subplots
-        fig, axes = plt.subplots(2, 1, figsize=(12, 10))
-        plt.subplots_adjust(hspace=0.3)
-        
-        # Title addition based on filters
-        title_addition = ""
-        if area:
-            title_addition += f" - {area}"
-        if property_type:
-            title_addition += f" - {property_type}"
-        
-        # 1. Yearly trends
-        sns.lineplot(
-            x='contract_year', 
-            y='monthly_rent_mean', 
-            data=yearly_trends,
-            marker='o',
-            ax=axes[0]
-        )
-        # Add count labels
-        for i, row in yearly_trends.iterrows():
-            axes[0].annotate(
-                f"n={int(row['monthly_rent_count'])}",
-                (row['contract_year'], row['monthly_rent_mean']),
-                textcoords="offset points",
-                xytext=(0, 10),
-                ha='center'
-            )
-        axes[0].set_title(f'Yearly Rental Price Trends{title_addition}')
-        axes[0].set_xlabel('Year')
-        axes[0].set_ylabel('Average Monthly Rent')
-        
-        # 2. Quarterly trends
-        sns.lineplot(
-            x='year_quarter', 
-            y='monthly_rent_mean', 
-            data=quarterly_trends,
-            marker='o',
-            ax=axes[1]
-        )
-        # Add count labels (but skip some for readability if too many)
-        skip_factor = max(1, len(quarterly_trends) // 10)  # Show at most ~10 labels
-        for i, row in quarterly_trends.iterrows()[::skip_factor]:
-            axes[1].annotate(
-                f"n={int(row['monthly_rent_count'])}",
-                (i, row['monthly_rent_mean']),
-                textcoords="offset points",
-                xytext=(0, 10),
-                ha='center'
-            )
-        axes[1].set_title(f'Quarterly Rental Price Trends{title_addition}')
-        axes[1].set_xlabel('Year-Quarter')
-        axes[1].set_ylabel('Average Monthly Rent')
-        axes[1].tick_params(axis='x', rotation=90)
-        
-        plt.tight_layout()
-        plt.show()
-    
     def export_market_report(self, output_path='rental_market_report.csv'):
         """
         Export rental market analysis to a CSV file.
@@ -776,134 +696,3 @@ class RentContractAnalysisModel:
         
         print(f"Market report exported to {output_path}")
         return output_path
-
-
-def demonstrate_model():
-    """Example usage of the Rent Contract Analysis Model."""
-    # Create sample data
-    sample_contracts = [
-        {
-            'contract_start_date': '2020-06-04',
-            'contract_end_date': '2021-06-03',
-            'contract_amount': 130000,
-            'ejari_property_type_en': 'Villa',
-            'property_usage_en': 'Residential',
-            'project_name_en': 'Emirates Living - Springs 15',
-            'area_name_en': 'Al Thanayah Fourth'
-        },
-        {
-            'contract_start_date': '2020-07-21',
-            'contract_end_date': '2021-07-20',
-            'contract_amount': 49052,
-            'ejari_property_type_en': 'Office',
-            'property_usage_en': 'Commercial',
-            'project_name_en': 'PLATINUM TOWER',
-            'area_name_en': 'Al Thanyah Fifth'
-        },
-        {
-            'contract_start_date': '2021-05-01',
-            'contract_end_date': '2022-04-30',
-            'contract_amount': 500000,
-            'ejari_property_type_en': 'Flat',
-            'property_usage_en': 'Residential',
-            'project_name_en': 'THE 118',
-            'area_name_en': 'Burj Khalifa'
-        },
-        {
-            'contract_start_date': '2020-02-23',
-            'contract_end_date': '2024-02-22',
-            'contract_amount': 1549288,
-            'ejari_property_type_en': 'Shop',
-            'property_usage_en': 'Commercial',
-            'project_name_en': 'THE RESIDENCES AT MARINA GATE 1',
-            'area_name_en': 'Marsa Dubai'
-        },
-        {
-            'contract_start_date': '2020-01-01',
-            'contract_end_date': '2020-12-31',
-            'contract_amount': 75000,
-            'ejari_property_type_en': 'Flat',
-            'property_usage_en': 'Residential',
-            'project_name_en': 'CONCORDE TOWER',
-            'area_name_en': 'Al Thanyah Fifth'
-        },
-        {
-            'contract_start_date': '2021-01-01',
-            'contract_end_date': '2021-12-31',
-            'contract_amount': 80000,
-            'ejari_property_type_en': 'Flat',
-            'property_usage_en': 'Residential',
-            'project_name_en': 'CONCORDE TOWER',
-            'area_name_en': 'Al Thanyah Fifth'
-        },
-        {
-            'contract_start_date': '2022-01-01',
-            'contract_end_date': '2022-12-31',
-            'contract_amount': 85000,
-            'ejari_property_type_en': 'Flat',
-            'property_usage_en': 'Residential',
-            'project_name_en': 'CONCORDE TOWER',
-            'area_name_en': 'Al Thanyah Fifth'
-        }
-    ]
-    
-    # Create DataFrame
-    contract_df = pd.DataFrame(sample_contracts)
-    
-    # Initialize model
-    model = RentContractAnalysisModel()
-    
-    # Load data
-    model.load_data(dataframe=contract_df)
-    
-    # Display basic statistics
-    print("\n--- Rental Contract Dataset Overview ---")
-    print(model.contracts_df[['ejari_property_type_en', 'property_usage_en', 'area_name_en', 'contract_amount']].head())
-    
-    # Display derived metrics
-    print("\n--- Derived Contract Metrics ---")
-    print(model.contracts_df[['contract_duration_months', 'monthly_rent', 'annual_rent']].head())
-    
-    # Calculate market averages
-    averages = model._calculate_market_averages()
-    print("\n--- Market Averages ---")
-    print(f"Overall Avg Monthly Rent: {averages['overall']['avg_monthly_rent']:.2f}")
-    print(f"Overall Avg Annual Rent: {averages['overall']['avg_annual_rent']:.2f}")
-    
-    # Predict rental for a property
-    print("\n--- Rental Price Prediction ---")
-    property_to_predict = {
-        'ejari_property_type_en': 'Flat',
-        'property_usage_en': 'Residential',
-        'area_name_en': 'Al Thanyah Fifth'
-    }
-    
-    prediction = model.predict_rental_price(property_to_predict)
-    print(f"Predicted Monthly Rent: {prediction['predicted_monthly_rent']:.2f}")
-    print(f"Predicted Annual Rent: {prediction['predicted_annual_rent']:.2f}")
-    
-    # Find similar contracts
-    print("\n--- Similar Contracts ---")
-    similar = model.find_similar_contracts(property_to_predict, count=2)
-    print(similar[['ejari_property_type_en', 'area_name_en', 'monthly_rent', 'contract_start_date']])
-    
-    # Analyze rent trends
-    print("\n--- Rent Trends ---")
-    trends = model.analyze_rent_trends(property_type='Flat', time_period='yearly')
-    print(trends)
-    
-    # Calculate rent volatility
-    print("\n--- Rent Volatility ---")
-    volatility = model.calculate_rent_volatility(property_type='Flat')
-    print(f"Overall Coefficient of Variation: {volatility['overall']['coefficient_of_variation']:.2f}%")
-    
-    # Visualize market overview
-    model.visualize_market_overview()
-    
-    # Visualize rent trends
-    model.visualize_rent_trends(property_type='Flat')
-    
-    # Export market report
-    model.export_market_report('rental_market_report.csv')
-    
-    return model
