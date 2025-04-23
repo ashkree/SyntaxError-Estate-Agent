@@ -1,0 +1,1001 @@
+Area,Size_sqft,Bedrooms,Bathrooms,Amenities,Furnishing,View,Developer,YearBuilt,ParkingSpaces,AnnualRent,PropertyValuation,PropertyType
+Dubai Marina,963,1,1,"Pool, Maid Room, Security, Balcony",Furnished,Sea,Emaar,2006,1,43383,1063425,Apartment
+Business Bay,5372,6,5,"Security, Gym, Pet Friendly, Pool, Balcony, Parking",Semi-Furnished,Park,Nakheel,2024,2,249108,4846673,Villa
+Arabian Ranches,3036,3,2,"Maid Room, Pool, Balcony, Gym, Security, Parking",Unfurnished,None,Damac,2018,1,188994,4567880,Townhouse
+Business Bay,2826,4,3,"Security, Smart Home, Kids Area, Parking, Pool, Pet Friendly",Semi-Furnished,Park,Meraas,2008,3,291723,4907785,Villa
+Downtown,901,1,1,"Security, Balcony, Kids Area, Parking, Gym, Pool",Furnished,City,Sobha,2008,1,53453,782776,Apartment
+Arabian Ranches,1422,2,3,"Parking, Security, Pool, Pet Friendly, Smart Home, Maid Room",Unfurnished,None,Sobha,2018,2,98391,1407207,Apartment
+Downtown,586,1,1,"Parking, Pet Friendly, Security, Gym",Semi-Furnished,Street,Azizi,2014,3,29886,528062,Apartment
+JVC,2969,5,6,"Pool, Security, Balcony, Maid Room, Pet Friendly",Furnished,City,Azizi,2024,1,167694,3882506,Villa
+JLT,2839,4,3,"Kids Area, Parking, Security, Pet Friendly",Furnished,None,Damac,2015,1,131742,2588792,Townhouse
+JLT,893,3,2,"Smart Home, Pool, Pet Friendly",Unfurnished,Park,Nakheel,2021,2,58508,1301528,Apartment
+The Springs,2904,4,5,"Security, Pet Friendly, Kids Area, Smart Home",Semi-Furnished,Street,Azizi,2014,1,127569,3043117,Townhouse
+JVC,871,3,2,"Pool, Gym, Maid Room",Furnished,Sea,Damac,2002,3,46586,775541,Apartment
+Business Bay,1881,3,4,"Balcony, Smart Home, Pet Friendly, Maid Room, Pool, Gym",Furnished,Street,Damac,2013,2,124949,2019478,Apartment
+Dubai Marina,1891,2,1,"Balcony, Maid Room, Security, Smart Home",Furnished,Street,Nakheel,2008,2,115195,1701607,Apartment
+Palm Jumeirah,2927,2,1,"Pool, Balcony, Maid Room",Semi-Furnished,Street,Sobha,2006,2,223933,4983050,Townhouse
+JVC,2343,3,3,"Maid Room, Smart Home, Pool, Pet Friendly, Parking, Kids Area",Furnished,None,Meraas,2017,1,151296,3626906,Townhouse
+Palm Jumeirah,1487,1,1,"Parking, Pool, Security",Furnished,Park,Sobha,2003,3,77140,1333797,Apartment
+Dubai Marina,1595,3,4,"Security, Balcony, Kids Area, Pet Friendly, Parking",Furnished,City,Sobha,2004,3,104219,1940159,Apartment
+Dubai Marina,1672,3,2,"Maid Room, Balcony, Security",Semi-Furnished,Park,Damac,2002,1,74465,1664679,Apartment
+JLT,5805,3,4,"Pool, Parking, Smart Home, Gym, Kids Area",Unfurnished,None,Nakheel,2008,2,501766,8155037,Villa
+Business Bay,5993,5,6,"Security, Gym, Smart Home, Kids Area, Balcony, Parking",Furnished,Sea,Damac,2024,1,412188,8612620,Villa
+Palm Jumeirah,1275,3,2,"Pool, Parking, Security",Furnished,City,Azizi,2017,1,54905,1330882,Apartment
+Arabian Ranches,3430,2,2,"Balcony, Pool, Parking, Security",Semi-Furnished,None,Meraas,2004,1,395596,5709597,Townhouse
+Downtown,1850,2,3,"Pet Friendly, Balcony, Parking, Pool, Gym",Semi-Furnished,Sea,Sobha,2007,1,160926,2990685,Townhouse
+JLT,2266,2,1,"Pet Friendly, Kids Area, Parking, Gym",Semi-Furnished,City,Meraas,2016,2,218956,3352588,Townhouse
+Arabian Ranches,2036,3,2,"Gym, Pool, Security, Balcony, Parking",Unfurnished,City,Sobha,2019,3,124877,1864254,Townhouse
+Business Bay,1851,2,1,"Kids Area, Pet Friendly, Gym, Maid Room",Semi-Furnished,None,Damac,2021,1,115736,2361512,Apartment
+JLT,3836,6,7,"Maid Room, Parking, Pool, Balcony, Kids Area",Unfurnished,Park,Azizi,2018,2,300777,4626504,Villa
+JLT,1280,3,4,"Smart Home, Maid Room, Balcony, Kids Area, Pool",Unfurnished,Street,Meraas,2005,3,54511,982830,Apartment
+Arabian Ranches,1938,1,2,"Balcony, Maid Room, Pool, Gym, Kids Area",Furnished,Street,Azizi,2024,1,137341,2062677,Apartment
+Business Bay,4072,6,6,"Parking, Gym, Pet Friendly, Smart Home",Semi-Furnished,Park,Nakheel,2022,3,292076,5149247,Villa
+Dubai Marina,1351,3,4,"Smart Home, Pet Friendly, Maid Room, Security, Balcony",Furnished,Street,Sobha,2008,1,89556,1853423,Apartment
+Palm Jumeirah,3624,6,5,"Balcony, Security, Parking, Pet Friendly, Smart Home",Furnished,Park,Nakheel,2007,2,331301,5414074,Villa
+Dubai Marina,1077,3,3,"Gym, Balcony, Pet Friendly, Smart Home, Kids Area, Maid Room",Unfurnished,Street,Sobha,2000,2,52277,1011184,Apartment
+The Springs,1904,3,4,"Smart Home, Balcony, Parking, Maid Room",Semi-Furnished,Sea,Sobha,2010,3,123404,2367268,Apartment
+Downtown,2061,4,5,"Pet Friendly, Gym, Smart Home",Unfurnished,Street,Nakheel,2014,1,90028,1752436,Townhouse
+Business Bay,1091,2,2,"Security, Pool, Balcony, Gym, Maid Room, Kids Area",Semi-Furnished,Park,Meraas,2002,3,32697,798837,Apartment
+Business Bay,441,3,2,"Parking, Smart Home, Kids Area, Gym",Unfurnished,Park,Sobha,2022,2,26086,579261,Apartment
+Dubai Marina,3170,5,4,"Security, Pet Friendly, Balcony",Unfurnished,Park,Emaar,2018,3,244414,5168912,Villa
+JLT,3029,2,3,"Kids Area, Pet Friendly, Maid Room",Semi-Furnished,Sea,Azizi,2020,2,129480,2461523,Townhouse
+Palm Jumeirah,1141,3,3,"Pet Friendly, Parking, Kids Area, Security",Unfurnished,City,Azizi,2017,2,79218,1223036,Apartment
+JLT,902,1,1,"Balcony, Smart Home, Security, Pet Friendly, Maid Room, Parking",Furnished,Street,Damac,2005,2,50154,784465,Apartment
+Arabian Ranches,1620,3,3,"Maid Room, Balcony, Gym",Furnished,Street,Sobha,2017,1,120477,2029029,Apartment
+Palm Jumeirah,435,1,1,"Pet Friendly, Balcony, Parking, Kids Area",Unfurnished,City,Sobha,2017,3,29646,424127,Apartment
+Arabian Ranches,1329,2,2,"Balcony, Pool, Kids Area, Smart Home, Parking",Furnished,None,Meraas,2005,1,63269,1160360,Apartment
+JLT,2197,3,2,"Parking, Security, Gym, Kids Area, Smart Home",Furnished,City,Emaar,2001,3,163935,2399424,Townhouse
+Palm Jumeirah,425,3,3,"Smart Home, Maid Room, Parking, Pool, Gym, Pet Friendly",Semi-Furnished,Sea,Emaar,2012,2,19000,322687,Apartment
+JVC,1552,2,1,"Pool, Pet Friendly, Security, Smart Home",Unfurnished,Park,Azizi,2012,2,108329,2214399,Apartment
+The Springs,1671,1,2,"Balcony, Maid Room, Parking",Unfurnished,Sea,Nakheel,2007,1,85262,1907603,Apartment
+The Springs,1616,2,2,"Balcony, Security, Kids Area",Semi-Furnished,Street,Emaar,2021,1,147991,2325632,Apartment
+Business Bay,1515,1,2,"Security, Parking, Gym, Pet Friendly",Furnished,City,Azizi,2023,3,115760,2176985,Apartment
+Palm Jumeirah,5366,6,6,"Smart Home, Pool, Security, Gym, Balcony, Parking",Unfurnished,City,Emaar,2002,1,615281,9454414,Villa
+JVC,3176,3,4,"Parking, Smart Home, Security",Unfurnished,Street,Damac,2005,3,252888,3925170,Townhouse
+Dubai Marina,1236,2,2,"Parking, Kids Area, Balcony",Unfurnished,Street,Damac,2021,2,94340,1669654,Apartment
+Palm Jumeirah,916,2,1,"Maid Room, Gym, Kids Area, Security, Balcony, Pet Friendly",Furnished,Park,Azizi,2011,3,70251,1195521,Apartment
+JVC,1524,1,1,"Smart Home, Pool, Gym, Kids Area, Security, Maid Room",Unfurnished,Park,Damac,2017,1,74469,1740104,Apartment
+Dubai Marina,640,3,2,"Security, Maid Room, Balcony, Pet Friendly, Kids Area, Pool",Semi-Furnished,None,Nakheel,2012,1,50827,919996,Apartment
+Downtown,2365,3,3,"Gym, Security, Kids Area, Parking, Smart Home",Unfurnished,Street,Nakheel,2014,3,151791,3037467,Townhouse
+The Springs,1059,1,2,"Pet Friendly, Balcony, Maid Room, Smart Home",Furnished,City,Meraas,2015,3,77935,1515158,Apartment
+Downtown,475,1,2,"Pool, Smart Home, Gym, Security, Balcony",Furnished,Park,Sobha,2020,1,22899,360934,Apartment
+JLT,1818,2,3,"Kids Area, Pet Friendly, Parking",Unfurnished,Street,Azizi,2001,3,80865,1372111,Apartment
+JLT,3329,2,2,"Pool, Smart Home, Maid Room",Unfurnished,City,Emaar,2001,2,259307,5313561,Townhouse
+Arabian Ranches,900,3,3,"Parking, Maid Room, Gym, Security",Semi-Furnished,None,Meraas,2007,2,57016,1287236,Apartment
+Palm Jumeirah,4382,5,6,"Smart Home, Security, Kids Area",Unfurnished,Park,Emaar,2014,2,383642,7833489,Villa
+The Springs,4371,5,4,"Smart Home, Pool, Maid Room, Balcony, Security, Parking",Unfurnished,City,Meraas,2009,1,464316,7771395,Villa
+JLT,1804,3,2,"Security, Balcony, Maid Room, Parking, Pool, Pet Friendly",Unfurnished,City,Meraas,2024,3,143233,2370413,Apartment
+Downtown,5070,3,3,"Gym, Kids Area, Smart Home, Pool, Maid Room, Parking",Semi-Furnished,Street,Nakheel,2006,1,533242,8043619,Villa
+Arabian Ranches,958,1,1,"Security, Kids Area, Pet Friendly, Gym, Balcony, Smart Home",Furnished,Park,Meraas,2023,3,98117,1421627,Apartment
+Arabian Ranches,1208,1,1,"Smart Home, Kids Area, Maid Room",Unfurnished,City,Azizi,2012,3,75874,1754298,Apartment
+Business Bay,1668,3,3,"Pool, Smart Home, Kids Area, Parking",Unfurnished,Street,Emaar,2004,1,119402,2430291,Apartment
+Palm Jumeirah,880,3,2,"Smart Home, Kids Area, Maid Room, Pet Friendly, Security, Balcony",Unfurnished,Park,Sobha,2020,1,70334,1202919,Apartment
+JLT,1158,1,1,"Balcony, Kids Area, Gym, Smart Home, Parking, Security",Furnished,Street,Damac,2006,1,109371,1689763,Apartment
+Dubai Marina,5128,3,2,"Balcony, Parking, Pet Friendly, Security, Pool",Furnished,None,Nakheel,2018,1,388688,8271735,Villa
+Downtown,4941,3,3,"Parking, Security, Pet Friendly, Pool",Furnished,Sea,Nakheel,2000,2,370321,7856114,Villa
+Arabian Ranches,943,1,1,"Maid Room, Pool, Kids Area, Gym, Balcony, Security",Semi-Furnished,None,Azizi,2003,2,71110,1040195,Apartment
+JVC,5198,5,5,"Gym, Smart Home, Pet Friendly",Semi-Furnished,Street,Meraas,2003,2,419069,7861462,Villa
+Dubai Marina,703,1,1,"Maid Room, Kids Area, Balcony, Security, Smart Home",Semi-Furnished,Street,Azizi,2019,2,33449,547877,Apartment
+Business Bay,867,2,2,"Pet Friendly, Maid Room, Kids Area, Gym, Parking, Balcony",Semi-Furnished,City,Damac,2004,3,52394,1247082,Apartment
+Dubai Marina,597,3,4,"Parking, Gym, Security, Pet Friendly, Kids Area",Semi-Furnished,Sea,Sobha,2011,3,45700,867383,Apartment
+JVC,3029,3,3,"Maid Room, Balcony, Pool",Unfurnished,Street,Nakheel,2003,2,254309,4983836,Townhouse
+JLT,1278,3,4,"Security, Gym, Pool",Semi-Furnished,City,Damac,2011,1,47844,1080069,Apartment
+The Springs,1917,3,2,"Maid Room, Balcony, Smart Home",Semi-Furnished,Street,Damac,2005,2,90502,1819827,Apartment
+Dubai Marina,2118,2,3,"Pool, Security, Balcony",Unfurnished,Street,Sobha,2019,2,119496,2571641,Townhouse
+Dubai Marina,627,2,3,"Maid Room, Security, Gym, Pool, Balcony, Pet Friendly",Furnished,Park,Damac,2006,1,40027,822203,Apartment
+Dubai Marina,1929,2,1,"Pet Friendly, Balcony, Security, Maid Room",Unfurnished,City,Emaar,2012,3,57419,1415580,Apartment
+Dubai Marina,2979,3,4,"Pet Friendly, Security, Gym, Balcony, Maid Room, Parking",Furnished,None,Sobha,2022,2,172858,2645738,Townhouse
+Business Bay,1220,3,2,"Security, Kids Area, Pool, Parking, Pet Friendly, Gym",Unfurnished,Sea,Azizi,2016,1,87745,1738180,Apartment
+Downtown,699,2,1,"Parking, Pool, Smart Home, Kids Area",Semi-Furnished,Street,Azizi,2024,3,50138,740327,Apartment
+Arabian Ranches,3084,3,2,"Pool, Smart Home, Balcony, Kids Area, Parking, Security",Unfurnished,Sea,Damac,2016,1,183407,3424497,Townhouse
+JVC,987,1,2,"Maid Room, Pet Friendly, Balcony",Unfurnished,None,Meraas,2001,2,80505,1408685,Apartment
+Business Bay,1374,3,2,"Smart Home, Pool, Pet Friendly",Semi-Furnished,Sea,Azizi,2020,1,61524,1004825,Apartment
+Palm Jumeirah,1648,1,1,"Security, Pet Friendly, Balcony, Parking, Maid Room",Furnished,City,Emaar,2010,1,97477,1889218,Apartment
+JLT,5189,4,4,"Parking, Kids Area, Maid Room",Unfurnished,Street,Nakheel,2019,3,444498,9018493,Villa
+The Springs,3845,4,5,"Pet Friendly, Kids Area, Gym",Semi-Furnished,City,Nakheel,2006,2,366820,6719784,Villa
+Business Bay,2117,2,2,"Maid Room, Gym, Kids Area",Semi-Furnished,None,Nakheel,2019,2,91766,2020153,Townhouse
+Downtown,2678,6,6,"Smart Home, Security, Pet Friendly, Kids Area",Semi-Furnished,Park,Azizi,2007,2,300392,4728267,Villa
+Business Bay,1568,2,2,"Pet Friendly, Maid Room, Pool, Smart Home, Security",Furnished,City,Emaar,2020,2,124265,2194092,Apartment
+Dubai Marina,4613,3,3,"Parking, Security, Balcony",Unfurnished,Park,Sobha,2002,1,496237,7457852,Villa
+JVC,1211,3,3,"Pet Friendly, Pool, Parking, Smart Home",Furnished,City,Emaar,2022,3,52038,1172529,Apartment
+JVC,1367,3,2,"Smart Home, Gym, Maid Room, Pet Friendly, Parking, Pool",Furnished,None,Meraas,2019,3,89850,1419771,Apartment
+Business Bay,497,1,1,"Pool, Maid Room, Pet Friendly, Balcony, Security, Gym",Unfurnished,None,Azizi,2007,3,21414,404986,Apartment
+Arabian Ranches,1253,1,2,"Maid Room, Kids Area, Gym",Unfurnished,None,Azizi,2016,3,59413,897483,Apartment
+JVC,4029,5,6,"Kids Area, Pool, Parking",Furnished,Sea,Azizi,2023,2,190175,3760707,Villa
+Arabian Ranches,2158,4,4,"Parking, Maid Room, Gym, Kids Area, Balcony, Pet Friendly",Semi-Furnished,Park,Emaar,2006,1,118693,2407455,Townhouse
+The Springs,2912,3,3,"Balcony, Security, Parking",Furnished,City,Damac,2003,2,187306,3602002,Townhouse
+Palm Jumeirah,2591,3,2,"Smart Home, Kids Area, Pet Friendly, Security, Parking, Gym",Unfurnished,Street,Emaar,2013,3,211223,4651099,Townhouse
+JLT,563,2,3,"Security, Smart Home, Maid Room, Kids Area, Balcony",Furnished,Street,Damac,2014,1,48588,721457,Apartment
+The Springs,517,1,2,"Kids Area, Parking, Gym, Pool, Security, Balcony",Furnished,Park,Emaar,2007,3,26433,513413,Apartment
+JVC,5281,6,6,"Smart Home, Pool, Security, Maid Room, Pet Friendly",Semi-Furnished,Street,Damac,2020,2,240585,5542999,Villa
+Downtown,1192,3,2,"Security, Smart Home, Pool, Maid Room, Parking",Unfurnished,Street,Nakheel,2003,1,88250,1647655,Apartment
+Palm Jumeirah,3459,4,4,"Pool, Security, Parking, Maid Room, Kids Area",Semi-Furnished,None,Nakheel,2003,1,259389,5506955,Townhouse
+Palm Jumeirah,1534,3,3,"Maid Room, Parking, Security, Gym, Kids Area, Smart Home",Semi-Furnished,Street,Azizi,2013,2,87979,2084202,Apartment
+Arabian Ranches,4343,6,7,"Parking, Maid Room, Pet Friendly, Pool, Balcony",Unfurnished,Sea,Emaar,2016,1,215108,4795212,Villa
+Business Bay,1462,2,1,"Balcony, Security, Pool, Kids Area, Parking",Unfurnished,None,Emaar,2016,3,83306,1220636,Apartment
+Downtown,1678,3,4,"Gym, Maid Room, Smart Home, Pet Friendly, Security",Semi-Furnished,Park,Azizi,2013,3,111661,2032381,Apartment
+JLT,3737,6,5,"Security, Smart Home, Gym, Kids Area, Pet Friendly, Pool",Semi-Furnished,Street,Sobha,2014,1,188800,4260899,Villa
+Arabian Ranches,3914,6,5,"Maid Room, Pool, Parking, Smart Home, Balcony",Furnished,City,Sobha,2007,1,170965,3510120,Villa
+The Springs,2656,2,1,"Kids Area, Balcony, Pet Friendly, Pool, Smart Home",Unfurnished,Street,Sobha,2009,2,149452,2186356,Townhouse
+Palm Jumeirah,2240,4,4,"Gym, Security, Balcony",Unfurnished,Street,Damac,2017,1,195286,3689666,Townhouse
+JLT,5628,6,6,"Pet Friendly, Gym, Security",Unfurnished,Park,Damac,2017,2,271020,4916236,Villa
+JLT,3076,4,5,"Parking, Pool, Balcony",Semi-Furnished,City,Azizi,2011,1,169861,3073102,Townhouse
+JVC,680,3,3,"Maid Room, Smart Home, Pool, Security, Kids Area, Pet Friendly",Semi-Furnished,None,Damac,2005,2,63105,1014894,Apartment
+JLT,1438,3,4,"Security, Smart Home, Pet Friendly, Gym, Parking, Maid Room",Unfurnished,Sea,Sobha,2018,2,118775,1923186,Apartment
+JVC,943,3,4,"Gym, Smart Home, Pool, Security",Unfurnished,None,Sobha,2004,3,48189,842813,Apartment
+Dubai Marina,1303,2,2,"Pet Friendly, Balcony, Smart Home, Security",Unfurnished,Street,Meraas,2023,1,91552,1647800,Apartment
+Arabian Ranches,2779,4,4,"Parking, Smart Home, Security, Maid Room, Pet Friendly",Semi-Furnished,City,Azizi,2015,1,236222,4883640,Townhouse
+JLT,1009,2,3,"Smart Home, Kids Area, Balcony, Parking",Unfurnished,City,Damac,2003,3,64365,1252469,Apartment
+The Springs,3383,2,2,"Security, Pool, Parking",Semi-Furnished,City,Meraas,2015,1,190373,3389996,Townhouse
+JLT,1660,3,4,"Balcony, Gym, Kids Area, Security",Furnished,Park,Emaar,2003,2,86709,1600629,Apartment
+Downtown,1527,1,1,"Smart Home, Balcony, Pet Friendly, Parking, Kids Area, Security",Unfurnished,Sea,Emaar,2020,3,84077,1352580,Apartment
+JVC,2158,3,2,"Pet Friendly, Smart Home, Pool",Unfurnished,City,Emaar,2000,2,127585,2952061,Townhouse
+Arabian Ranches,1713,3,4,"Parking, Smart Home, Maid Room, Pool, Gym, Pet Friendly",Furnished,Street,Meraas,2008,3,90307,1454267,Apartment
+JLT,1950,1,1,"Pet Friendly, Kids Area, Gym, Balcony, Maid Room, Pool",Furnished,Street,Damac,2007,1,83392,1771825,Apartment
+JLT,2418,4,5,"Security, Kids Area, Smart Home",Furnished,Sea,Meraas,2003,2,139600,2676257,Townhouse
+JLT,5116,5,5,"Balcony, Parking, Maid Room, Pool",Semi-Furnished,None,Damac,2013,3,373606,6902683,Villa
+Business Bay,5286,3,4,"Maid Room, Kids Area, Gym, Security, Pet Friendly, Smart Home",Unfurnished,None,Nakheel,2018,3,250260,5020919,Villa
+Palm Jumeirah,820,3,4,"Pool, Smart Home, Pet Friendly, Gym, Balcony, Maid Room",Unfurnished,Street,Sobha,2018,1,56606,940570,Apartment
+JLT,4121,5,4,"Pool, Gym, Balcony, Parking",Unfurnished,Sea,Azizi,2001,1,398669,7360671,Villa
+JLT,1974,1,2,"Kids Area, Pet Friendly, Balcony, Smart Home, Maid Room, Gym",Unfurnished,None,Nakheel,2020,2,109503,1569145,Apartment
+The Springs,1890,1,1,"Security, Smart Home, Kids Area",Unfurnished,None,Sobha,2017,2,121784,2567920,Apartment
+Arabian Ranches,786,3,2,"Pet Friendly, Gym, Pool",Furnished,Sea,Emaar,2019,1,49988,830922,Apartment
+JVC,490,2,2,"Maid Room, Balcony, Pet Friendly, Gym",Furnished,None,Damac,2007,3,32608,568835,Apartment
+Arabian Ranches,693,3,4,"Pet Friendly, Security, Parking, Gym",Unfurnished,None,Meraas,2005,3,48820,861399,Apartment
+JVC,3117,4,4,"Pet Friendly, Maid Room, Pool, Parking, Balcony",Furnished,None,Sobha,2007,1,210070,3430995,Townhouse
+Palm Jumeirah,2951,3,3,"Pet Friendly, Balcony, Parking, Pool",Semi-Furnished,Sea,Sobha,2011,1,255730,3941460,Townhouse
+JVC,1779,3,4,"Pool, Balcony, Pet Friendly",Unfurnished,None,Nakheel,2015,1,124109,2482735,Apartment
+JVC,789,3,2,"Balcony, Maid Room, Smart Home, Pool, Security, Parking",Semi-Furnished,Street,Sobha,2017,3,37275,779064,Apartment
+Palm Jumeirah,1879,2,2,"Kids Area, Maid Room, Balcony, Gym",Unfurnished,Park,Meraas,2004,1,116169,1707295,Apartment
+The Springs,801,2,1,"Balcony, Smart Home, Security, Kids Area, Parking, Pet Friendly",Semi-Furnished,Street,Sobha,2005,3,48238,1070120,Apartment
+Palm Jumeirah,1510,3,2,"Pool, Gym, Pet Friendly",Furnished,Street,Nakheel,2020,1,50725,1139105,Apartment
+Business Bay,1164,1,2,"Smart Home, Gym, Maid Room, Security, Kids Area, Balcony",Furnished,Sea,Azizi,2023,2,63845,1313679,Apartment
+The Springs,2167,2,1,"Balcony, Maid Room, Security, Pet Friendly",Semi-Furnished,City,Damac,2012,1,132643,2542002,Townhouse
+Business Bay,2262,3,4,"Gym, Pool, Balcony",Semi-Furnished,Street,Azizi,2015,1,198522,3249924,Townhouse
+Dubai Marina,1288,3,3,"Maid Room, Gym, Pool",Furnished,None,Sobha,2008,1,112219,1853853,Apartment
+JLT,2954,4,3,"Kids Area, Gym, Pool, Security",Furnished,Street,Emaar,2009,1,229664,4029132,Townhouse
+The Springs,4714,5,5,"Pool, Kids Area, Gym, Pet Friendly",Semi-Furnished,Park,Emaar,2010,3,507724,7396292,Villa
+The Springs,2468,2,3,"Smart Home, Maid Room, Pool, Parking, Security",Semi-Furnished,Street,Nakheel,2021,3,153465,3604938,Townhouse
+JLT,5420,3,2,"Parking, Pet Friendly, Kids Area, Smart Home, Pool",Unfurnished,Street,Damac,2011,1,329974,4832040,Villa
+Palm Jumeirah,952,1,1,"Parking, Pet Friendly, Balcony",Unfurnished,None,Azizi,2013,1,34743,686401,Apartment
+Dubai Marina,1064,2,1,"Pet Friendly, Maid Room, Smart Home, Gym, Security",Furnished,None,Azizi,2005,3,47207,1068879,Apartment
+JLT,698,1,1,"Security, Pet Friendly, Parking, Balcony, Gym, Smart Home",Semi-Furnished,Park,Meraas,2020,2,37618,820181,Apartment
+Dubai Marina,413,2,2,"Kids Area, Smart Home, Parking, Balcony, Security, Pool",Semi-Furnished,City,Azizi,2022,1,20278,447364,Apartment
+The Springs,2396,4,5,"Balcony, Kids Area, Maid Room, Parking, Pet Friendly, Smart Home",Furnished,None,Nakheel,2018,3,147985,2347905,Townhouse
+JVC,2745,4,3,"Security, Pool, Pet Friendly, Balcony, Kids Area, Smart Home",Unfurnished,City,Nakheel,2008,3,138011,2619123,Townhouse
+The Springs,1624,2,3,"Maid Room, Pet Friendly, Security, Gym, Parking, Kids Area",Furnished,Park,Meraas,2021,2,78983,1352906,Apartment
+The Springs,2479,3,2,"Pool, Security, Maid Room",Unfurnished,None,Azizi,2018,3,181960,3409208,Townhouse
+The Springs,1791,3,4,"Kids Area, Gym, Balcony, Smart Home",Semi-Furnished,Street,Emaar,2003,3,71897,1456692,Apartment
+Palm Jumeirah,4634,6,6,"Pool, Smart Home, Kids Area, Pet Friendly, Balcony, Parking",Furnished,City,Emaar,2022,1,191707,3811859,Villa
+Dubai Marina,3173,4,5,"Maid Room, Parking, Smart Home, Security",Semi-Furnished,Street,Nakheel,2012,3,184965,3123665,Villa
+The Springs,1910,3,2,"Pet Friendly, Maid Room, Gym, Kids Area, Pool, Security",Semi-Furnished,Sea,Azizi,2003,3,80775,1622674,Apartment
+Palm Jumeirah,1773,2,3,"Pet Friendly, Maid Room, Security, Gym, Parking",Semi-Furnished,Street,Azizi,2005,3,109709,2242473,Apartment
+Dubai Marina,3782,3,2,"Pool, Parking, Smart Home, Kids Area, Maid Room",Unfurnished,Street,Sobha,2019,1,273968,5199516,Villa
+Palm Jumeirah,5340,4,5,"Smart Home, Security, Pool, Pet Friendly",Semi-Furnished,Street,Azizi,2001,2,510196,9354836,Villa
+Business Bay,2950,4,5,"Pet Friendly, Smart Home, Balcony, Kids Area, Maid Room, Security",Furnished,Sea,Azizi,2000,1,155431,3221665,Townhouse
+JLT,1336,3,4,"Maid Room, Pool, Security, Gym, Parking, Pet Friendly",Unfurnished,Sea,Meraas,2014,3,61658,1168777,Apartment
+Business Bay,466,2,2,"Pool, Smart Home, Pet Friendly, Gym, Maid Room",Furnished,None,Meraas,2011,3,29260,553705,Apartment
+Downtown,5832,4,3,"Maid Room, Security, Smart Home, Pet Friendly, Pool",Semi-Furnished,City,Damac,2018,2,566518,10219981,Villa
+Dubai Marina,1936,2,1,"Parking, Maid Room, Pool, Pet Friendly, Smart Home",Furnished,Street,Sobha,2004,3,137358,2334664,Apartment
+The Springs,1697,1,1,"Kids Area, Smart Home, Balcony, Parking, Security",Furnished,Sea,Meraas,2014,3,106037,2089541,Apartment
+Dubai Marina,4129,4,4,"Smart Home, Security, Parking, Pet Friendly",Semi-Furnished,None,Azizi,2004,3,434268,6822852,Villa
+JVC,1682,2,1,"Parking, Smart Home, Balcony",Furnished,Street,Nakheel,2022,1,115988,2364418,Apartment
+JLT,1138,2,1,"Parking, Gym, Balcony, Kids Area, Maid Room",Unfurnished,Park,Sobha,2020,1,57536,1437246,Apartment
+Palm Jumeirah,1615,1,2,"Gym, Maid Room, Kids Area, Parking, Smart Home, Balcony",Unfurnished,Park,Sobha,2002,1,100651,1625426,Apartment
+Dubai Marina,1152,2,1,"Parking, Maid Room, Gym, Security, Kids Area, Pet Friendly",Unfurnished,Park,Sobha,2011,3,62619,1002751,Apartment
+The Springs,4312,4,3,"Parking, Pool, Security",Unfurnished,Street,Damac,2013,2,325428,6860722,Villa
+Dubai Marina,1630,3,4,"Gym, Security, Pool, Smart Home, Kids Area",Unfurnished,Park,Meraas,2012,2,125986,1983605,Apartment
+Business Bay,630,1,1,"Maid Room, Gym, Parking",Semi-Furnished,Park,Sobha,2018,2,37815,625167,Apartment
+Palm Jumeirah,3377,2,1,"Gym, Security, Pool",Furnished,Sea,Sobha,2016,2,265487,4824283,Townhouse
+The Springs,1223,1,2,"Security, Pool, Parking, Gym",Unfurnished,Park,Nakheel,2017,2,73100,1238391,Apartment
+Dubai Marina,1295,3,2,"Balcony, Pool, Maid Room",Furnished,Street,Azizi,2019,1,76377,1226924,Apartment
+Downtown,1849,1,2,"Parking, Smart Home, Maid Room",Unfurnished,None,Meraas,2008,1,115260,1844369,Apartment
+JLT,2983,3,3,"Security, Pool, Parking, Kids Area, Maid Room, Gym",Semi-Furnished,Street,Azizi,2011,1,220999,3876736,Villa
+Arabian Ranches,1983,1,2,"Balcony, Gym, Smart Home",Furnished,Park,Emaar,2015,2,88811,1995658,Apartment
+JVC,1862,3,4,"Balcony, Kids Area, Pool, Maid Room, Parking, Security",Furnished,None,Damac,2003,3,95899,2306385,Apartment
+Business Bay,1894,3,2,"Security, Maid Room, Parking, Gym, Smart Home, Balcony",Furnished,City,Nakheel,2009,3,186627,3001056,Townhouse
+Business Bay,1611,2,1,"Parking, Gym, Balcony, Smart Home",Furnished,None,Damac,2020,3,154756,2258233,Apartment
+JVC,4041,5,4,"Maid Room, Balcony, Smart Home, Pet Friendly",Furnished,Park,Meraas,2008,1,160089,3410200,Villa
+The Springs,4025,6,7,"Pool, Parking, Kids Area",Semi-Furnished,Sea,Azizi,2018,1,342620,4970806,Villa
+Business Bay,1045,2,3,"Kids Area, Smart Home, Parking, Pool, Gym",Furnished,Park,Azizi,2003,1,43850,819829,Apartment
+Arabian Ranches,1497,2,1,"Security, Smart Home, Parking, Gym, Kids Area, Pool",Unfurnished,City,Meraas,2022,3,71338,1096198,Apartment
+Arabian Ranches,1856,1,1,"Maid Room, Gym, Kids Area, Parking, Pet Friendly, Pool",Furnished,Street,Sobha,2017,3,90653,2116019,Apartment
+Dubai Marina,2086,2,1,"Balcony, Parking, Pool",Semi-Furnished,City,Meraas,2020,3,106190,1844106,Townhouse
+Dubai Marina,532,1,2,"Parking, Pool, Pet Friendly, Maid Room, Gym, Security",Semi-Furnished,Sea,Nakheel,2018,2,37441,722109,Apartment
+JVC,1273,1,1,"Parking, Security, Maid Room, Balcony",Furnished,Sea,Azizi,2019,3,55761,1141407,Apartment
+The Springs,2781,2,1,"Pet Friendly, Parking, Balcony, Pool, Security",Furnished,None,Emaar,2012,3,181597,3223490,Townhouse
+Palm Jumeirah,1558,3,3,"Security, Parking, Gym, Smart Home, Maid Room, Pool",Furnished,City,Emaar,2015,3,88356,1536104,Apartment
+Business Bay,2005,2,3,"Security, Gym, Pet Friendly, Pool",Unfurnished,Street,Damac,2005,1,102958,2078285,Townhouse
+Arabian Ranches,1857,4,5,"Parking, Balcony, Pet Friendly, Smart Home, Security",Semi-Furnished,Park,Sobha,2001,1,92293,1589903,Townhouse
+JVC,401,2,3,"Parking, Kids Area, Smart Home, Pool",Semi-Furnished,Sea,Emaar,2004,3,22424,506766,Apartment
+Dubai Marina,2547,2,2,"Pool, Kids Area, Parking, Pet Friendly, Maid Room, Security",Unfurnished,Street,Meraas,2015,3,174202,2845720,Townhouse
+Arabian Ranches,1606,1,1,"Security, Parking, Pool, Kids Area, Gym",Unfurnished,None,Sobha,2024,3,67700,1165805,Apartment
+Business Bay,2926,6,5,"Pool, Balcony, Parking, Pet Friendly, Maid Room",Unfurnished,Sea,Meraas,2021,3,224058,4474690,Villa
+JVC,911,3,2,"Security, Pool, Kids Area, Gym, Pet Friendly",Semi-Furnished,Street,Meraas,2013,1,70263,1282361,Apartment
+The Springs,1168,1,1,"Parking, Smart Home, Gym, Pet Friendly",Semi-Furnished,Sea,Damac,2008,1,40003,886932,Apartment
+The Springs,553,3,2,"Smart Home, Gym, Balcony, Kids Area, Pool",Unfurnished,Street,Nakheel,2001,1,36940,533576,Apartment
+The Springs,5457,5,6,"Security, Balcony, Gym, Pet Friendly, Smart Home",Unfurnished,None,Sobha,2004,1,334647,6334643,Villa
+JLT,3080,4,4,"Pool, Gym, Maid Room, Pet Friendly",Unfurnished,City,Emaar,2015,1,177254,3413728,Townhouse
+Palm Jumeirah,2342,2,3,"Parking, Kids Area, Balcony, Maid Room, Pool, Pet Friendly",Furnished,City,Sobha,2014,2,115502,2403459,Townhouse
+JVC,1826,3,2,"Kids Area, Pet Friendly, Smart Home",Unfurnished,Park,Azizi,2001,2,130016,2473726,Apartment
+Palm Jumeirah,882,2,2,"Pet Friendly, Gym, Security",Unfurnished,None,Azizi,2021,3,49402,721439,Apartment
+Palm Jumeirah,742,1,1,"Gym, Pet Friendly, Maid Room, Kids Area",Semi-Furnished,Park,Meraas,2004,3,45274,672481,Apartment
+Dubai Marina,1539,2,3,"Security, Smart Home, Pet Friendly, Gym, Maid Room",Unfurnished,None,Sobha,2003,2,71904,1261539,Apartment
+Dubai Marina,2952,2,2,"Pet Friendly, Security, Balcony, Kids Area, Maid Room",Unfurnished,None,Sobha,2001,1,140685,3174622,Townhouse
+The Springs,1078,3,2,"Smart Home, Security, Parking",Furnished,City,Damac,2009,2,97402,1481470,Apartment
+Dubai Marina,2266,2,2,"Kids Area, Security, Maid Room, Balcony, Smart Home, Gym",Furnished,Street,Nakheel,2013,3,161523,2910587,Townhouse
+Arabian Ranches,2855,2,1,"Maid Room, Pet Friendly, Pool, Security, Kids Area",Furnished,Park,Nakheel,2006,1,160881,2996294,Townhouse
+Arabian Ranches,3622,5,5,"Pool, Gym, Maid Room, Parking, Balcony, Security",Furnished,Street,Azizi,2017,2,269927,4144469,Villa
+JLT,5321,3,3,"Pet Friendly, Gym, Pool",Unfurnished,Park,Nakheel,2020,1,377985,7862816,Villa
+The Springs,1998,3,2,"Parking, Maid Room, Security, Gym, Pool, Smart Home",Unfurnished,City,Meraas,2022,3,122948,1838765,Apartment
+Arabian Ranches,846,2,2,"Pool, Gym, Security, Kids Area, Parking, Pet Friendly",Semi-Furnished,Sea,Sobha,2002,2,74680,1261122,Apartment
+JLT,1856,3,3,"Parking, Balcony, Gym, Security",Semi-Furnished,City,Meraas,2004,3,73429,1336995,Apartment
+JLT,1257,2,2,"Balcony, Kids Area, Smart Home",Unfurnished,Park,Meraas,2017,3,112162,1669192,Apartment
+Arabian Ranches,748,3,4,"Security, Pool, Balcony, Smart Home",Unfurnished,City,Meraas,2017,1,73032,1090238,Apartment
+Dubai Marina,857,3,3,"Kids Area, Maid Room, Parking, Security, Pet Friendly, Balcony",Furnished,Street,Emaar,2020,3,58488,997762,Apartment
+Palm Jumeirah,2824,2,3,"Maid Room, Security, Balcony, Gym, Pool, Smart Home",Furnished,City,Sobha,2018,2,175460,2663665,Townhouse
+Downtown,4497,5,6,"Kids Area, Gym, Smart Home, Balcony",Semi-Furnished,Park,Nakheel,2018,1,364812,5799228,Villa
+Dubai Marina,1288,3,3,"Pet Friendly, Smart Home, Balcony, Gym, Kids Area, Pool",Unfurnished,City,Emaar,2010,3,66210,1097970,Apartment
+Business Bay,1105,2,1,"Pet Friendly, Security, Pool",Furnished,Sea,Damac,2009,2,82026,1416903,Apartment
+Arabian Ranches,1806,1,1,"Kids Area, Balcony, Pool, Smart Home, Gym, Pet Friendly",Furnished,Park,Nakheel,2023,1,95375,2116188,Apartment
+Arabian Ranches,5744,3,3,"Maid Room, Gym, Security, Smart Home, Kids Area",Unfurnished,Sea,Emaar,2022,1,359295,6989158,Villa
+JLT,713,1,2,"Security, Pet Friendly, Kids Area",Furnished,None,Damac,2019,3,47244,898794,Apartment
+Dubai Marina,1665,1,1,"Pool, Smart Home, Maid Room",Unfurnished,Park,Damac,2016,1,85877,1642251,Apartment
+Downtown,1416,1,2,"Kids Area, Balcony, Gym, Pet Friendly, Maid Room, Security",Unfurnished,Street,Nakheel,2002,3,66410,1076214,Apartment
+JLT,4370,5,5,"Gym, Pool, Pet Friendly, Smart Home, Maid Room, Parking",Semi-Furnished,City,Sobha,2023,1,245409,3911143,Villa
+JVC,683,3,4,"Kids Area, Maid Room, Balcony, Security",Semi-Furnished,Sea,Damac,2010,1,28099,540297,Apartment
+Palm Jumeirah,1189,3,3,"Parking, Pool, Smart Home, Kids Area, Gym, Pet Friendly",Furnished,Street,Azizi,2015,3,67138,1477587,Apartment
+The Springs,5004,3,4,"Smart Home, Maid Room, Gym, Balcony",Semi-Furnished,Sea,Emaar,2008,3,340878,5575646,Villa
+Business Bay,3171,3,4,"Pet Friendly, Balcony, Smart Home",Semi-Furnished,Street,Nakheel,2017,3,160698,2709829,Townhouse
+Downtown,1361,2,1,"Smart Home, Kids Area, Pool",Semi-Furnished,City,Emaar,2016,1,79713,1552079,Apartment
+Business Bay,1309,3,3,"Smart Home, Maid Room, Parking",Furnished,Street,Meraas,2020,1,53615,1023788,Apartment
+JVC,3421,4,5,"Maid Room, Balcony, Kids Area, Pet Friendly, Smart Home",Semi-Furnished,City,Emaar,2007,2,244053,3872478,Townhouse
+Palm Jumeirah,3988,6,5,"Balcony, Gym, Parking",Semi-Furnished,City,Azizi,2016,2,247841,5990359,Villa
+Downtown,1868,3,4,"Pool, Security, Smart Home, Maid Room, Kids Area, Gym",Semi-Furnished,Park,Sobha,2006,3,113676,1812607,Apartment
+JVC,3176,4,3,"Smart Home, Parking, Balcony, Gym, Security, Kids Area",Unfurnished,Street,Azizi,2015,3,337975,5021514,Townhouse
+Downtown,3025,3,3,"Maid Room, Pet Friendly, Balcony, Security, Pool",Semi-Furnished,Street,Damac,2009,2,214304,4854510,Villa
+JLT,2921,3,4,"Balcony, Maid Room, Security, Kids Area",Semi-Furnished,City,Meraas,2004,3,291203,4235702,Townhouse
+Arabian Ranches,5616,5,6,"Pet Friendly, Security, Maid Room, Balcony, Gym, Smart Home",Furnished,Street,Nakheel,2001,3,230958,4810692,Villa
+Downtown,3199,3,2,"Security, Balcony, Pet Friendly",Unfurnished,Sea,Damac,2014,1,273011,4530132,Townhouse
+Business Bay,4798,6,5,"Gym, Pet Friendly, Balcony, Smart Home, Parking",Unfurnished,Sea,Emaar,2023,2,317960,4812812,Villa
+Palm Jumeirah,3097,4,5,"Maid Room, Balcony, Pet Friendly, Kids Area, Pool",Semi-Furnished,Street,Nakheel,2021,1,138203,3056666,Townhouse
+Dubai Marina,1277,2,3,"Parking, Maid Room, Security, Smart Home, Gym",Semi-Furnished,Street,Meraas,2004,1,52208,1050923,Apartment
+JVC,5061,5,5,"Pool, Kids Area, Security, Maid Room, Smart Home",Unfurnished,Sea,Azizi,2005,2,354157,6797328,Villa
+Arabian Ranches,836,3,3,"Kids Area, Security, Pool, Smart Home, Maid Room",Semi-Furnished,None,Meraas,2000,1,55109,1032586,Apartment
+Business Bay,3197,3,3,"Pet Friendly, Security, Smart Home",Unfurnished,City,Emaar,2016,2,232202,4201846,Townhouse
+Palm Jumeirah,1734,1,1,"Pool, Parking, Pet Friendly",Unfurnished,None,Emaar,2020,1,88693,1506196,Apartment
+Business Bay,2668,2,1,"Pool, Parking, Gym, Balcony, Smart Home, Pet Friendly",Furnished,Sea,Emaar,2005,2,207433,3623368,Townhouse
+Business Bay,2634,3,3,"Pet Friendly, Kids Area, Gym, Balcony, Maid Room, Security",Unfurnished,None,Emaar,2024,3,222727,3649691,Townhouse
+Dubai Marina,1429,1,1,"Pool, Security, Pet Friendly, Balcony, Kids Area",Semi-Furnished,Sea,Sobha,2005,3,78106,1251650,Apartment
+JLT,2095,3,4,"Gym, Parking, Maid Room, Pet Friendly, Kids Area",Unfurnished,None,Sobha,2017,3,179851,3659921,Townhouse
+Arabian Ranches,1722,3,2,"Parking, Balcony, Security, Maid Room",Furnished,Sea,Nakheel,2021,3,155953,2379461,Apartment
+Palm Jumeirah,2799,5,6,"Security, Pool, Smart Home",Unfurnished,None,Sobha,2010,2,155011,2598074,Villa
+Dubai Marina,542,1,1,"Smart Home, Kids Area, Security, Maid Room, Parking, Pool",Unfurnished,None,Damac,2010,2,22352,452522,Apartment
+Business Bay,5124,6,6,"Parking, Kids Area, Balcony, Pet Friendly, Smart Home",Semi-Furnished,City,Sobha,2017,1,290985,4999846,Villa
+JLT,2086,4,3,"Pool, Maid Room, Gym, Security, Pet Friendly",Unfurnished,None,Sobha,2024,3,86827,2112618,Townhouse
+JLT,1505,2,3,"Kids Area, Pet Friendly, Pool, Security",Unfurnished,City,Nakheel,2014,3,86576,1668036,Apartment
+JVC,5973,4,5,"Smart Home, Parking, Pool, Security",Unfurnished,Park,Meraas,2023,2,428120,10388093,Villa
+Palm Jumeirah,941,2,1,"Balcony, Kids Area, Maid Room",Semi-Furnished,Street,Emaar,2001,3,55163,902660,Apartment
+JLT,2339,4,5,"Pet Friendly, Maid Room, Parking, Security",Unfurnished,Sea,Azizi,2008,2,193577,4146284,Townhouse
+The Springs,1106,2,2,"Maid Room, Parking, Balcony",Furnished,Park,Emaar,2016,3,45515,1022660,Apartment
+Downtown,1869,1,2,"Pet Friendly, Kids Area, Smart Home, Gym",Semi-Furnished,Street,Sobha,2006,3,100712,1549395,Apartment
+JVC,661,3,4,"Parking, Gym, Security, Pool",Furnished,Park,Damac,2005,3,56207,969416,Apartment
+JVC,3290,4,4,"Balcony, Smart Home, Security",Semi-Furnished,Street,Nakheel,2007,2,294216,4608759,Townhouse
+Downtown,4592,5,4,"Smart Home, Pool, Maid Room, Balcony, Kids Area",Furnished,Sea,Emaar,2006,3,420143,7620845,Villa
+The Springs,3040,2,1,"Gym, Pool, Maid Room, Balcony, Smart Home, Pet Friendly",Unfurnished,Street,Azizi,2013,2,310219,5091465,Townhouse
+The Springs,1387,2,2,"Pet Friendly, Parking, Smart Home",Semi-Furnished,Park,Emaar,2009,3,101579,1943759,Apartment
+Business Bay,1922,1,2,"Maid Room, Gym, Balcony",Unfurnished,Park,Meraas,2010,2,84930,1902426,Apartment
+JLT,1497,2,3,"Security, Pet Friendly, Smart Home, Pool, Balcony",Unfurnished,None,Sobha,2005,2,93624,1717470,Apartment
+JLT,1985,3,3,"Pool, Balcony, Smart Home, Kids Area",Furnished,Sea,Nakheel,2016,2,168886,2637796,Apartment
+JVC,1702,1,1,"Smart Home, Pet Friendly, Gym, Maid Room",Semi-Furnished,Park,Damac,2002,3,64041,1242807,Apartment
+The Springs,4634,5,6,"Parking, Smart Home, Balcony",Furnished,Park,Meraas,2016,2,292799,4609655,Villa
+Business Bay,5260,3,3,"Gym, Parking, Maid Room, Smart Home",Semi-Furnished,City,Meraas,2012,2,404873,7290781,Villa
+Dubai Marina,2925,3,4,"Kids Area, Security, Pool, Smart Home, Pet Friendly",Semi-Furnished,Street,Azizi,2000,2,157392,2851976,Townhouse
+Dubai Marina,1096,1,2,"Maid Room, Security, Kids Area, Balcony, Pet Friendly",Unfurnished,Street,Nakheel,2024,2,86563,1610014,Apartment
+Palm Jumeirah,1856,3,2,"Pool, Pet Friendly, Kids Area, Maid Room, Smart Home",Semi-Furnished,Street,Damac,2016,3,97632,1502846,Townhouse
+Business Bay,1217,3,4,"Pool, Parking, Balcony, Smart Home, Kids Area",Furnished,None,Damac,2005,3,102088,1516973,Apartment
+Palm Jumeirah,3461,4,4,"Balcony, Maid Room, Pet Friendly, Pool",Unfurnished,City,Nakheel,2024,1,134844,3183699,Villa
+Palm Jumeirah,5630,3,3,"Kids Area, Smart Home, Security, Parking, Balcony",Furnished,None,Damac,2012,1,382675,8727453,Villa
+The Springs,1507,1,2,"Pet Friendly, Parking, Balcony, Gym, Security",Semi-Furnished,City,Meraas,2000,1,95962,1867598,Apartment
+Dubai Marina,1654,2,1,"Balcony, Security, Maid Room, Smart Home, Parking",Semi-Furnished,Park,Sobha,2013,1,107134,1712343,Apartment
+Arabian Ranches,2372,3,2,"Balcony, Pool, Kids Area, Parking",Furnished,None,Sobha,2012,1,154298,2243541,Townhouse
+Downtown,419,1,1,"Parking, Kids Area, Pet Friendly, Balcony, Maid Room, Security",Unfurnished,None,Emaar,2012,1,21935,524770,Apartment
+JLT,1689,1,1,"Security, Kids Area, Parking, Maid Room, Smart Home",Semi-Furnished,City,Emaar,2013,1,100043,1656693,Apartment
+Business Bay,1730,3,4,"Security, Kids Area, Parking, Smart Home",Unfurnished,Street,Meraas,2014,1,84478,1738402,Apartment
+Downtown,3111,3,3,"Pool, Maid Room, Smart Home, Parking, Pet Friendly, Kids Area",Semi-Furnished,City,Meraas,2008,3,216343,4494288,Townhouse
+Palm Jumeirah,3987,6,6,"Parking, Gym, Pool, Kids Area",Furnished,City,Meraas,2022,3,157922,3508818,Villa
+Dubai Marina,1369,3,2,"Pet Friendly, Pool, Gym",Semi-Furnished,None,Nakheel,2002,3,102283,1978576,Apartment
+Business Bay,981,2,3,"Parking, Maid Room, Gym, Pet Friendly",Unfurnished,City,Damac,2015,2,81620,1451865,Apartment
+JLT,676,3,4,"Smart Home, Pet Friendly, Security, Kids Area",Unfurnished,None,Damac,2011,2,49071,765052,Apartment
+Palm Jumeirah,1244,2,1,"Gym, Maid Room, Security, Pool, Parking",Semi-Furnished,Street,Azizi,2000,3,122346,1788462,Apartment
+Palm Jumeirah,1968,2,2,"Gym, Kids Area, Pool, Balcony",Unfurnished,Street,Sobha,2007,1,148639,2503198,Apartment
+The Springs,562,2,3,"Maid Room, Security, Parking, Kids Area",Unfurnished,None,Damac,2013,1,35337,777125,Apartment
+JLT,1332,3,3,"Smart Home, Balcony, Parking, Gym, Pool",Furnished,None,Emaar,2005,1,53946,1233021,Apartment
+Palm Jumeirah,3453,3,2,"Smart Home, Balcony, Parking",Semi-Furnished,City,Sobha,2011,2,211677,5168915,Villa
+Dubai Marina,2099,2,2,"Pool, Smart Home, Maid Room, Pet Friendly, Parking, Balcony",Furnished,Sea,Meraas,2007,2,175746,3298001,Townhouse
+JVC,1905,1,2,"Smart Home, Pet Friendly, Kids Area, Parking",Semi-Furnished,Park,Meraas,2023,1,139436,2468460,Apartment
+Dubai Marina,1707,2,1,"Gym, Balcony, Maid Room, Pool, Smart Home",Semi-Furnished,Sea,Nakheel,2008,3,86488,1358293,Apartment
+JVC,2990,4,4,"Kids Area, Pool, Smart Home, Pet Friendly",Semi-Furnished,Sea,Meraas,2019,2,361796,5175237,Townhouse
+JVC,1720,1,2,"Parking, Smart Home, Pool",Semi-Furnished,None,Meraas,2024,2,122930,2312402,Apartment
+Business Bay,1173,2,3,"Security, Gym, Balcony, Kids Area",Semi-Furnished,None,Damac,2017,3,73018,1281002,Apartment
+Arabian Ranches,1359,2,3,"Pool, Parking, Balcony, Smart Home",Semi-Furnished,None,Damac,2014,1,99039,1794877,Apartment
+Downtown,3069,3,4,"Kids Area, Pool, Maid Room, Security",Semi-Furnished,Park,Azizi,2021,2,214428,4805237,Townhouse
+JLT,1712,2,1,"Maid Room, Pool, Gym",Furnished,Park,Emaar,2006,1,80046,1863163,Apartment
+The Springs,4653,5,4,"Balcony, Pool, Gym, Smart Home, Maid Room",Furnished,Street,Meraas,2001,2,430613,6318866,Villa
+The Springs,3426,4,3,"Maid Room, Gym, Kids Area, Smart Home, Parking",Furnished,Park,Azizi,2003,1,292351,5225239,Townhouse
+Business Bay,1745,1,2,"Maid Room, Pet Friendly, Kids Area, Gym",Unfurnished,None,Damac,2021,2,116306,2202260,Apartment
+Dubai Marina,769,3,3,"Parking, Smart Home, Maid Room, Pet Friendly, Security",Semi-Furnished,City,Sobha,2024,3,49618,803197,Apartment
+Business Bay,838,2,3,"Kids Area, Smart Home, Balcony, Pet Friendly, Gym",Unfurnished,Sea,Damac,2019,1,65167,933605,Apartment
+JLT,854,1,1,"Security, Parking, Gym",Furnished,Street,Damac,2004,1,51939,778839,Apartment
+Business Bay,1015,1,2,"Balcony, Pool, Kids Area, Parking, Maid Room, Smart Home",Semi-Furnished,None,Emaar,2019,3,59101,954419,Apartment
+The Springs,514,2,2,"Pet Friendly, Pool, Maid Room, Smart Home, Security, Gym",Unfurnished,Street,Emaar,2009,3,21171,376734,Apartment
+Downtown,1829,1,1,"Pet Friendly, Smart Home, Maid Room",Unfurnished,None,Azizi,2002,1,121605,1912308,Apartment
+Downtown,569,2,3,"Maid Room, Pet Friendly, Parking",Furnished,Street,Azizi,2013,3,20157,457646,Apartment
+Business Bay,1735,3,2,"Balcony, Pool, Parking, Maid Room",Semi-Furnished,None,Emaar,2003,3,91141,1788551,Apartment
+Business Bay,1616,3,2,"Parking, Kids Area, Security, Balcony, Pet Friendly",Furnished,Street,Emaar,2007,1,90129,2017232,Apartment
+Dubai Marina,511,1,2,"Security, Gym, Parking, Kids Area",Furnished,City,Sobha,2015,1,30687,493371,Apartment
+Business Bay,1471,2,3,"Parking, Gym, Balcony, Security, Kids Area, Smart Home",Semi-Furnished,Park,Emaar,2009,1,114643,1958417,Apartment
+JVC,417,1,1,"Kids Area, Pool, Gym, Parking, Balcony",Furnished,Street,Azizi,2022,1,32365,593431,Apartment
+Dubai Marina,1425,2,3,"Gym, Balcony, Security",Semi-Furnished,City,Sobha,2012,3,59298,1176485,Apartment
+Arabian Ranches,1019,1,2,"Gym, Security, Balcony, Maid Room, Smart Home",Semi-Furnished,Park,Nakheel,2010,2,53242,1248830,Apartment
+The Springs,1788,3,4,"Pet Friendly, Balcony, Security, Pool",Semi-Furnished,City,Azizi,2010,2,93662,2027211,Apartment
+Downtown,1800,1,1,"Maid Room, Parking, Balcony, Pool, Security",Furnished,City,Emaar,2017,3,114365,2625986,Apartment
+Arabian Ranches,2098,4,3,"Pet Friendly, Maid Room, Parking, Balcony, Smart Home",Furnished,Park,Emaar,2004,1,120605,1733363,Townhouse
+JLT,5008,4,5,"Balcony, Gym, Parking, Smart Home",Unfurnished,Street,Nakheel,2016,3,377978,6353967,Villa
+Downtown,2806,3,2,"Balcony, Maid Room, Gym, Smart Home",Furnished,City,Sobha,2007,3,190265,4128577,Townhouse
+Business Bay,1299,3,3,"Smart Home, Balcony, Maid Room, Pet Friendly, Gym",Unfurnished,Street,Meraas,2010,2,96199,1544775,Apartment
+JVC,1324,2,1,"Maid Room, Pet Friendly, Kids Area, Gym",Unfurnished,Street,Azizi,2024,3,88940,1946377,Apartment
+Palm Jumeirah,1023,2,2,"Pet Friendly, Security, Smart Home, Gym",Unfurnished,None,Nakheel,2014,3,66969,1085769,Apartment
+Dubai Marina,1598,3,4,"Pet Friendly, Maid Room, Parking, Balcony",Furnished,Park,Sobha,2018,3,150488,2263784,Apartment
+Dubai Marina,1816,3,4,"Pool, Maid Room, Gym, Kids Area",Semi-Furnished,City,Emaar,2016,3,116578,1829202,Apartment
+Downtown,1179,1,1,"Parking, Maid Room, Pet Friendly, Pool, Kids Area",Unfurnished,Sea,Sobha,2009,2,104206,1513988,Apartment
+JLT,2981,4,3,"Security, Gym, Balcony",Semi-Furnished,Street,Azizi,2000,3,236442,5016137,Villa
+Palm Jumeirah,1304,1,2,"Balcony, Security, Smart Home",Unfurnished,None,Nakheel,2001,1,63618,1067460,Apartment
+JVC,466,3,4,"Kids Area, Pool, Gym, Pet Friendly, Balcony",Furnished,Park,Meraas,2009,3,34925,572592,Apartment
+Downtown,3334,4,4,"Pool, Security, Parking",Semi-Furnished,Street,Emaar,2024,2,229823,5478794,Townhouse
+Palm Jumeirah,1822,2,2,"Maid Room, Balcony, Kids Area, Pool, Security, Gym",Furnished,None,Meraas,2020,3,147957,2714327,Apartment
+JLT,1048,2,3,"Parking, Smart Home, Security, Kids Area, Balcony",Semi-Furnished,Park,Azizi,2007,3,44759,977145,Apartment
+Dubai Marina,1680,1,2,"Pet Friendly, Maid Room, Gym, Parking",Semi-Furnished,None,Meraas,2006,1,123646,2036991,Apartment
+JLT,3760,5,6,"Gym, Pool, Kids Area, Parking, Pet Friendly",Semi-Furnished,None,Azizi,2000,1,242992,3737498,Villa
+Palm Jumeirah,3432,2,3,"Smart Home, Parking, Kids Area, Balcony",Unfurnished,City,Sobha,2013,3,163440,2937868,Townhouse
+Arabian Ranches,438,1,2,"Kids Area, Pool, Smart Home, Parking, Gym",Semi-Furnished,Street,Meraas,2017,1,26188,506671,Apartment
+Dubai Marina,3339,3,4,"Gym, Security, Balcony, Maid Room, Pet Friendly",Furnished,City,Sobha,2009,1,200210,4424510,Townhouse
+Arabian Ranches,5685,4,3,"Maid Room, Gym, Pet Friendly, Balcony, Security, Pool",Furnished,City,Sobha,2023,3,314484,6312389,Villa
+Dubai Marina,2857,4,3,"Gym, Smart Home, Balcony, Kids Area",Unfurnished,Sea,Emaar,2009,1,245685,4248508,Townhouse
+Dubai Marina,494,1,2,"Gym, Security, Kids Area, Pool, Parking",Furnished,Park,Damac,2008,3,25122,471927,Apartment
+Dubai Marina,722,2,1,"Maid Room, Pool, Smart Home",Unfurnished,City,Azizi,2010,2,35893,587163,Apartment
+JLT,750,1,1,"Maid Room, Smart Home, Gym, Pool, Pet Friendly",Semi-Furnished,Sea,Emaar,2012,1,29847,576671,Apartment
+Palm Jumeirah,3779,5,4,"Smart Home, Parking, Gym",Unfurnished,Street,Emaar,2014,2,343919,5609842,Villa
+Palm Jumeirah,858,1,2,"Kids Area, Pet Friendly, Pool, Maid Room, Parking",Semi-Furnished,Street,Sobha,2000,1,46846,926869,Apartment
+Palm Jumeirah,2378,3,4,"Maid Room, Pool, Balcony, Kids Area",Furnished,City,Azizi,2020,1,211994,3786800,Townhouse
+The Springs,888,3,2,"Smart Home, Pet Friendly, Gym, Parking",Furnished,None,Sobha,2013,3,66527,1180916,Apartment
+Business Bay,1771,1,2,"Pool, Smart Home, Parking, Security, Gym, Balcony",Furnished,City,Sobha,2002,3,89789,1393769,Apartment
+The Springs,1720,3,2,"Balcony, Parking, Security",Unfurnished,Sea,Nakheel,2021,1,89071,1827292,Apartment
+Palm Jumeirah,1795,2,2,"Pet Friendly, Kids Area, Gym, Security, Maid Room",Unfurnished,None,Sobha,2004,2,90233,1346121,Apartment
+JVC,1546,2,1,"Gym, Balcony, Smart Home, Kids Area, Security",Semi-Furnished,City,Meraas,2012,2,87580,1554119,Apartment
+Downtown,785,3,3,"Pet Friendly, Parking, Smart Home, Kids Area, Pool",Furnished,Sea,Emaar,2020,1,42585,639929,Apartment
+The Springs,2078,2,1,"Smart Home, Pet Friendly, Security, Pool, Balcony, Maid Room",Unfurnished,Street,Sobha,2011,1,119092,2048473,Townhouse
+Palm Jumeirah,2284,4,5,"Pet Friendly, Kids Area, Gym, Maid Room, Security",Semi-Furnished,City,Emaar,2018,2,170617,4023809,Townhouse
+JLT,560,3,4,"Balcony, Smart Home, Kids Area",Unfurnished,Sea,Meraas,2020,3,37008,749548,Apartment
+JVC,2895,2,2,"Maid Room, Smart Home, Security, Kids Area, Parking, Balcony",Semi-Furnished,City,Damac,2005,1,250727,4328173,Townhouse
+JLT,4808,5,4,"Parking, Gym, Kids Area, Maid Room, Security, Smart Home",Semi-Furnished,Street,Emaar,2004,3,267767,4215953,Villa
+JLT,975,2,2,"Pool, Parking, Security",Unfurnished,Park,Meraas,2014,2,62792,1312615,Apartment
+Business Bay,1480,1,1,"Parking, Maid Room, Pet Friendly",Semi-Furnished,Street,Sobha,2007,3,92071,1557179,Apartment
+Business Bay,1106,1,2,"Pool, Gym, Maid Room, Balcony, Kids Area",Semi-Furnished,City,Sobha,2023,3,59352,980943,Apartment
+The Springs,697,3,3,"Security, Smart Home, Balcony",Unfurnished,City,Azizi,2021,1,30329,542190,Apartment
+Arabian Ranches,2684,4,5,"Kids Area, Security, Parking, Gym, Pet Friendly",Unfurnished,None,Sobha,2014,3,257903,4157760,Townhouse
+Business Bay,1787,3,2,"Maid Room, Gym, Kids Area, Smart Home, Pet Friendly",Furnished,Street,Emaar,2016,1,112761,2230890,Apartment
+JLT,469,1,2,"Gym, Balcony, Security",Unfurnished,Sea,Meraas,2003,1,28517,649636,Apartment
+Downtown,3224,2,2,"Smart Home, Pool, Kids Area, Balcony, Parking",Semi-Furnished,City,Damac,2005,1,145427,3473174,Townhouse
+The Springs,523,2,2,"Smart Home, Pool, Balcony, Maid Room",Unfurnished,Street,Nakheel,2020,2,23132,411467,Apartment
+The Springs,1717,1,1,"Pool, Gym, Smart Home, Pet Friendly, Security",Unfurnished,City,Sobha,2000,2,83271,1406366,Apartment
+JVC,3591,4,5,"Pet Friendly, Gym, Security, Kids Area, Balcony",Semi-Furnished,Street,Sobha,2023,1,192973,4812402,Villa
+Palm Jumeirah,1496,2,2,"Pet Friendly, Gym, Kids Area, Maid Room, Smart Home",Semi-Furnished,None,Damac,2002,2,95318,1957310,Apartment
+Business Bay,480,2,3,"Security, Pet Friendly, Gym, Kids Area",Unfurnished,City,Sobha,2002,3,23033,504185,Apartment
+JVC,1874,3,2,"Pet Friendly, Pool, Maid Room, Security, Parking, Balcony",Unfurnished,Street,Emaar,2001,2,88821,1395836,Apartment
+JVC,833,3,4,"Maid Room, Parking, Kids Area, Security, Pool, Gym",Furnished,Park,Sobha,2020,1,60591,897120,Apartment
+JVC,1728,1,1,"Gym, Security, Pet Friendly, Maid Room",Semi-Furnished,None,Nakheel,2018,1,101069,2340126,Apartment
+Palm Jumeirah,1660,1,1,"Pet Friendly, Kids Area, Maid Room, Smart Home",Unfurnished,Street,Damac,2003,3,85013,1926884,Apartment
+Business Bay,4929,4,4,"Pool, Security, Maid Room",Semi-Furnished,Park,Meraas,2011,3,225027,4756515,Villa
+JVC,1694,3,3,"Gym, Smart Home, Maid Room, Pet Friendly",Furnished,Park,Emaar,2022,3,96559,1990423,Apartment
+Palm Jumeirah,3344,4,5,"Maid Room, Smart Home, Balcony, Pool, Kids Area",Unfurnished,Sea,Azizi,2005,3,297796,4346824,Villa
+JLT,409,3,2,"Pool, Maid Room, Security, Parking",Unfurnished,None,Nakheel,2014,3,24244,502031,Apartment
+Business Bay,705,3,3,"Parking, Maid Room, Kids Area, Gym, Pet Friendly, Smart Home",Semi-Furnished,Park,Sobha,2008,2,56122,841386,Apartment
+Palm Jumeirah,1916,1,2,"Parking, Gym, Balcony, Security",Furnished,Sea,Nakheel,2023,2,111988,2249700,Apartment
+Business Bay,3834,4,3,"Balcony, Pool, Smart Home, Kids Area, Maid Room",Furnished,Street,Nakheel,2002,2,221074,5310443,Villa
+The Springs,1648,2,1,"Kids Area, Parking, Balcony, Maid Room, Pool, Smart Home",Semi-Furnished,Park,Damac,2004,1,86345,2066210,Apartment
+Downtown,1353,2,2,"Kids Area, Balcony, Parking, Security",Furnished,None,Nakheel,2018,3,79760,1872556,Apartment
+Palm Jumeirah,2243,4,4,"Security, Gym, Kids Area, Balcony, Pool, Maid Room",Semi-Furnished,Street,Azizi,2007,3,264044,3916844,Townhouse
+JVC,490,1,1,"Pet Friendly, Maid Room, Balcony",Unfurnished,Sea,Sobha,2015,1,23507,375571,Apartment
+The Springs,2071,3,3,"Pool, Gym, Balcony, Kids Area",Semi-Furnished,Park,Meraas,2014,3,130524,3204430,Townhouse
+Palm Jumeirah,683,3,3,"Kids Area, Smart Home, Maid Room, Pet Friendly",Furnished,Sea,Sobha,2022,2,37562,768194,Apartment
+JLT,5008,4,5,"Kids Area, Gym, Security",Unfurnished,City,Emaar,2003,2,341912,5837279,Villa
+Arabian Ranches,1727,3,4,"Maid Room, Balcony, Pool",Semi-Furnished,Park,Azizi,2003,3,127485,1869986,Apartment
+Business Bay,5616,4,4,"Security, Pet Friendly, Parking, Gym, Kids Area",Semi-Furnished,City,Sobha,2015,3,325453,7450649,Villa
+JLT,1153,3,4,"Balcony, Smart Home, Gym",Furnished,Street,Nakheel,2009,1,43835,907978,Apartment
+Downtown,818,3,4,"Security, Pet Friendly, Kids Area",Unfurnished,Park,Sobha,2011,2,51214,863062,Apartment
+JLT,445,1,2,"Pet Friendly, Kids Area, Smart Home, Maid Room, Parking",Semi-Furnished,None,Meraas,2022,3,32613,611219,Apartment
+JLT,1027,1,1,"Smart Home, Kids Area, Parking, Gym",Furnished,City,Damac,2014,1,55006,1227166,Apartment
+JLT,759,3,4,"Parking, Balcony, Gym, Pet Friendly",Semi-Furnished,None,Nakheel,2014,2,34882,755764,Apartment
+JVC,3908,4,4,"Maid Room, Parking, Security, Smart Home, Gym, Pet Friendly",Semi-Furnished,Street,Nakheel,2014,2,258192,3736256,Villa
+Arabian Ranches,3710,6,6,"Smart Home, Kids Area, Maid Room, Gym",Unfurnished,Street,Emaar,2004,3,246806,5012061,Villa
+The Springs,3402,6,6,"Kids Area, Gym, Security",Unfurnished,Park,Azizi,2016,1,338979,5379525,Villa
+Business Bay,1502,2,3,"Maid Room, Pet Friendly, Pool",Semi-Furnished,City,Azizi,2019,3,146948,2184992,Apartment
+Arabian Ranches,1866,2,2,"Kids Area, Gym, Parking, Pet Friendly, Maid Room, Security",Semi-Furnished,None,Emaar,2006,3,163800,2631515,Apartment
+The Springs,2391,2,3,"Pet Friendly, Parking, Maid Room, Security, Kids Area, Gym",Furnished,Park,Damac,2015,3,179347,4271852,Townhouse
+The Springs,1238,3,3,"Parking, Smart Home, Kids Area, Security, Pool, Pet Friendly",Furnished,Street,Damac,2017,2,58854,908427,Apartment
+JLT,1915,2,1,"Gym, Parking, Smart Home",Semi-Furnished,Street,Emaar,2020,3,142214,2708095,Apartment
+Palm Jumeirah,3120,2,1,"Security, Smart Home, Gym",Unfurnished,City,Azizi,2015,3,184100,3856533,Townhouse
+Palm Jumeirah,3475,2,2,"Security, Parking, Maid Room",Furnished,Park,Damac,2014,3,145960,3250853,Townhouse
+JLT,1703,2,1,"Security, Pool, Maid Room, Smart Home, Kids Area",Furnished,None,Nakheel,2017,2,154281,2380716,Apartment
+JLT,1829,3,3,"Maid Room, Kids Area, Pet Friendly",Furnished,Sea,Nakheel,2016,2,99607,1826094,Apartment
+Arabian Ranches,2133,2,1,"Maid Room, Balcony, Pet Friendly, Pool",Unfurnished,None,Meraas,2016,3,197021,3226263,Townhouse
+Dubai Marina,556,1,1,"Smart Home, Kids Area, Parking",Unfurnished,City,Nakheel,2014,3,42974,621884,Apartment
+Downtown,2617,3,2,"Parking, Balcony, Maid Room, Pool",Furnished,Park,Emaar,2013,3,177327,4090432,Villa
+JVC,5602,6,5,"Pool, Gym, Pet Friendly, Kids Area",Unfurnished,None,Emaar,2015,1,395274,9571181,Villa
+JLT,5590,3,2,"Balcony, Parking, Kids Area, Smart Home",Furnished,Sea,Nakheel,2023,2,493040,9775745,Villa
+Downtown,3399,4,5,"Maid Room, Pool, Gym, Security",Furnished,None,Nakheel,2022,1,270771,5996732,Townhouse
+JVC,2002,2,3,"Kids Area, Parking, Balcony, Maid Room, Gym, Pool",Semi-Furnished,Street,Sobha,2006,3,89250,2057163,Townhouse
+Arabian Ranches,625,3,2,"Kids Area, Security, Smart Home, Maid Room, Gym, Pet Friendly",Semi-Furnished,Street,Emaar,2012,2,41347,665972,Apartment
+Palm Jumeirah,1234,2,2,"Pool, Smart Home, Kids Area, Parking",Furnished,Sea,Meraas,2015,3,51421,967625,Apartment
+Dubai Marina,1208,2,3,"Parking, Pool, Maid Room",Furnished,City,Nakheel,2019,2,62813,964237,Apartment
+Palm Jumeirah,1861,3,4,"Pet Friendly, Kids Area, Balcony, Smart Home, Security",Semi-Furnished,Street,Azizi,2008,1,105771,2446097,Apartment
+JLT,872,3,2,"Pool, Gym, Pet Friendly",Furnished,Street,Meraas,2000,1,52969,877324,Apartment
+Downtown,1676,1,1,"Smart Home, Balcony, Parking, Kids Area, Maid Room, Security",Unfurnished,City,Azizi,2010,3,130715,1906108,Apartment
+JVC,2043,3,3,"Pet Friendly, Smart Home, Balcony, Gym, Kids Area",Furnished,None,Meraas,2024,2,154622,3441842,Townhouse
+The Springs,1865,2,2,"Smart Home, Maid Room, Balcony",Unfurnished,Park,Azizi,2001,2,98055,1698479,Apartment
+The Springs,3944,5,5,"Gym, Maid Room, Pool",Semi-Furnished,City,Meraas,2018,1,362699,6173125,Villa
+The Springs,1106,2,2,"Gym, Balcony, Pool, Pet Friendly, Parking",Unfurnished,Sea,Meraas,2002,2,39478,875484,Apartment
+Arabian Ranches,1747,2,3,"Security, Gym, Kids Area, Balcony, Maid Room, Smart Home",Semi-Furnished,Street,Azizi,2012,2,129982,2023080,Apartment
+Dubai Marina,3343,5,5,"Parking, Security, Maid Room, Balcony, Pool",Semi-Furnished,Sea,Azizi,2006,2,174193,3560813,Villa
+The Springs,3079,4,3,"Kids Area, Security, Gym",Unfurnished,None,Sobha,2013,1,149427,3532587,Townhouse
+JLT,1014,2,3,"Balcony, Pet Friendly, Maid Room, Parking, Security",Unfurnished,Street,Meraas,2024,3,34730,856303,Apartment
+Downtown,836,3,4,"Security, Pet Friendly, Maid Room, Kids Area, Gym, Pool",Semi-Furnished,Street,Nakheel,2007,1,68281,1084414,Apartment
+The Springs,531,3,2,"Security, Maid Room, Kids Area, Pool, Parking, Pet Friendly",Semi-Furnished,Park,Emaar,2004,1,24507,383468,Apartment
+JLT,1546,2,2,"Balcony, Parking, Smart Home",Furnished,Sea,Damac,2008,3,104615,1763313,Apartment
+JVC,2795,2,1,"Kids Area, Security, Pet Friendly",Furnished,Street,Damac,2021,3,244563,4711585,Townhouse
+Downtown,1569,3,4,"Maid Room, Security, Balcony",Furnished,Park,Azizi,2003,2,86963,1511619,Apartment
+The Springs,3323,2,2,"Parking, Pool, Smart Home, Pet Friendly",Semi-Furnished,Street,Sobha,2008,3,159289,2844240,Townhouse
+Dubai Marina,1267,2,3,"Security, Parking, Smart Home, Balcony",Unfurnished,City,Damac,2000,3,108603,1866853,Apartment
+JVC,5730,4,4,"Security, Kids Area, Pet Friendly, Smart Home, Gym, Pool",Semi-Furnished,Street,Emaar,2012,2,429515,6308089,Villa
+Business Bay,728,2,3,"Pet Friendly, Gym, Parking, Smart Home, Balcony",Semi-Furnished,Street,Damac,2022,2,65913,1020225,Apartment
+Downtown,4573,3,3,"Maid Room, Kids Area, Balcony, Smart Home, Gym, Security",Unfurnished,Park,Meraas,2014,3,222683,4280749,Villa
+JLT,568,1,1,"Maid Room, Parking, Pet Friendly, Security",Unfurnished,Street,Damac,2014,2,34963,794521,Apartment
+Downtown,5886,5,5,"Pool, Pet Friendly, Parking, Maid Room",Semi-Furnished,Street,Azizi,2007,1,696522,10289370,Villa
+Business Bay,2747,2,2,"Gym, Pet Friendly, Security, Balcony",Unfurnished,City,Nakheel,2002,2,151946,2664927,Townhouse
+JVC,4282,6,7,"Pool, Balcony, Kids Area, Maid Room, Pet Friendly, Parking",Semi-Furnished,Street,Sobha,2004,2,411379,7092438,Villa
+JLT,3275,6,5,"Parking, Gym, Maid Room, Pet Friendly, Pool, Balcony",Furnished,City,Azizi,2021,3,166095,4120487,Villa
+Downtown,3219,3,4,"Pet Friendly, Maid Room, Kids Area, Security",Semi-Furnished,Sea,Emaar,2017,1,186333,2742950,Townhouse
+Palm Jumeirah,3041,4,5,"Gym, Security, Smart Home",Unfurnished,Street,Damac,2012,3,245837,3560710,Townhouse
+JVC,933,1,2,"Kids Area, Smart Home, Pool, Gym, Parking, Balcony",Furnished,City,Emaar,2010,1,76057,1383464,Apartment
+JLT,4261,5,5,"Maid Room, Kids Area, Balcony, Pool, Parking",Unfurnished,Street,Nakheel,2017,3,325665,6121574,Villa
+Business Bay,870,1,1,"Security, Parking, Kids Area, Balcony, Pet Friendly, Gym",Semi-Furnished,Sea,Sobha,2011,3,53698,999354,Apartment
+Dubai Marina,2103,2,2,"Balcony, Security, Pool",Furnished,None,Damac,2018,3,167578,2914079,Townhouse
+JVC,1568,1,1,"Balcony, Smart Home, Kids Area",Furnished,City,Emaar,2009,3,101665,2328585,Apartment
+Arabian Ranches,617,2,1,"Pool, Smart Home, Pet Friendly",Unfurnished,Street,Sobha,2020,2,29134,725199,Apartment
+JVC,4355,5,6,"Balcony, Gym, Pet Friendly, Kids Area",Semi-Furnished,City,Emaar,2023,1,340681,5866865,Villa
+Dubai Marina,764,1,1,"Gym, Balcony, Pool",Semi-Furnished,Street,Damac,2020,3,30793,629007,Apartment
+The Springs,3770,4,4,"Kids Area, Balcony, Smart Home",Semi-Furnished,Street,Sobha,2008,3,225460,5279284,Villa
+The Springs,3057,2,2,"Pool, Gym, Security, Parking, Balcony, Maid Room",Unfurnished,Park,Sobha,2016,3,188111,4424168,Townhouse
+Palm Jumeirah,1378,2,1,"Security, Balcony, Maid Room, Smart Home",Semi-Furnished,None,Emaar,2017,1,109465,1975833,Apartment
+The Springs,1351,3,4,"Kids Area, Security, Smart Home, Gym, Pet Friendly",Furnished,Sea,Meraas,2021,2,51820,1139760,Apartment
+The Springs,1252,3,3,"Smart Home, Maid Room, Security, Parking, Kids Area",Furnished,Park,Nakheel,2002,3,88877,1860157,Apartment
+Dubai Marina,436,1,1,"Gym, Parking, Kids Area",Semi-Furnished,Street,Meraas,2012,3,37276,642072,Apartment
+Palm Jumeirah,1663,2,3,"Security, Pool, Smart Home, Pet Friendly, Gym, Kids Area",Furnished,Sea,Meraas,2006,1,85766,1442458,Apartment
+Business Bay,1682,3,2,"Security, Smart Home, Pool",Semi-Furnished,Street,Emaar,2003,1,148675,2391690,Apartment
+Palm Jumeirah,2765,2,2,"Balcony, Security, Smart Home, Maid Room",Furnished,City,Emaar,2003,3,241240,4555695,Townhouse
+The Springs,3309,4,5,"Gym, Smart Home, Balcony, Pet Friendly, Security",Unfurnished,None,Meraas,2015,1,279848,5010786,Townhouse
+The Springs,1533,1,1,"Smart Home, Pool, Balcony, Security, Parking, Pet Friendly",Unfurnished,Street,Emaar,2005,2,106192,1963722,Apartment
+Palm Jumeirah,849,3,4,"Smart Home, Parking, Maid Room, Kids Area, Balcony",Semi-Furnished,City,Sobha,2005,3,44632,735036,Apartment
+Dubai Marina,3028,4,3,"Smart Home, Pool, Pet Friendly, Balcony",Semi-Furnished,City,Nakheel,2006,3,103989,2564865,Villa
+JLT,724,1,2,"Pool, Kids Area, Balcony",Furnished,None,Nakheel,2003,3,30387,636596,Apartment
+Arabian Ranches,5651,3,4,"Parking, Pool, Kids Area, Gym, Balcony",Semi-Furnished,Sea,Emaar,2019,3,611740,8940765,Villa
+JVC,742,3,2,"Kids Area, Parking, Maid Room, Smart Home",Unfurnished,Street,Azizi,2015,3,46241,1036124,Apartment
+Arabian Ranches,682,1,1,"Pet Friendly, Gym, Pool, Balcony, Parking, Security",Unfurnished,Park,Emaar,2008,2,45506,867612,Apartment
+Business Bay,1943,3,3,"Parking, Pet Friendly, Balcony, Smart Home",Semi-Furnished,None,Meraas,2011,1,129240,2048044,Apartment
+Dubai Marina,1044,2,1,"Gym, Pet Friendly, Smart Home, Maid Room, Pool, Kids Area",Unfurnished,None,Damac,2013,2,89741,1470605,Apartment
+JLT,3784,5,4,"Maid Room, Parking, Kids Area, Balcony, Pet Friendly",Unfurnished,Park,Azizi,2019,3,334748,5494508,Villa
+The Springs,3735,3,2,"Pet Friendly, Parking, Security, Maid Room, Smart Home",Furnished,Sea,Azizi,2017,2,309492,4935189,Villa
+Downtown,1505,3,3,"Security, Pet Friendly, Maid Room, Gym",Unfurnished,Sea,Damac,2008,3,72763,1664529,Apartment
+Dubai Marina,1572,3,2,"Kids Area, Balcony, Pet Friendly, Maid Room, Security, Pool",Semi-Furnished,City,Damac,2021,3,80473,1820710,Apartment
+The Springs,907,1,1,"Kids Area, Smart Home, Gym, Pool",Unfurnished,Street,Sobha,2002,1,45327,680027,Apartment
+Palm Jumeirah,559,2,3,"Maid Room, Pet Friendly, Smart Home, Parking, Security, Balcony",Unfurnished,Street,Sobha,2022,2,37727,718523,Apartment
+Downtown,660,2,3,"Parking, Pool, Kids Area, Smart Home, Balcony, Security",Furnished,Park,Azizi,2011,1,40743,779644,Apartment
+Dubai Marina,993,1,2,"Pool, Kids Area, Parking, Pet Friendly",Semi-Furnished,City,Sobha,2000,1,46613,808015,Apartment
+JVC,2424,3,2,"Smart Home, Gym, Maid Room, Security",Semi-Furnished,Sea,Emaar,2013,2,189622,3328295,Townhouse
+Arabian Ranches,4446,4,3,"Smart Home, Maid Room, Pool, Kids Area, Parking, Gym",Unfurnished,None,Sobha,2012,1,379248,7559286,Villa
+JVC,2707,4,4,"Parking, Gym, Security",Unfurnished,City,Azizi,2020,1,166331,3908675,Townhouse
+JVC,2868,2,2,"Pool, Parking, Gym",Semi-Furnished,Park,Nakheel,2022,3,229121,3568450,Townhouse
+Arabian Ranches,492,2,1,"Pet Friendly, Parking, Balcony, Gym, Security",Semi-Furnished,Street,Damac,2002,1,41067,730043,Apartment
+JLT,923,1,1,"Pet Friendly, Parking, Gym, Security, Smart Home",Furnished,Sea,Meraas,2001,2,46329,934031,Apartment
+The Springs,2328,3,2,"Balcony, Maid Room, Pet Friendly",Unfurnished,None,Nakheel,2015,3,186305,3613963,Townhouse
+Dubai Marina,1051,2,3,"Pool, Smart Home, Gym, Balcony, Maid Room, Pet Friendly",Semi-Furnished,None,Azizi,2021,1,53401,942802,Apartment
+Downtown,1233,2,1,"Parking, Kids Area, Security, Pool",Furnished,None,Sobha,2017,2,58219,904323,Apartment
+JLT,3185,3,2,"Security, Maid Room, Pet Friendly, Kids Area, Balcony, Parking",Unfurnished,Park,Azizi,2016,2,167430,2692868,Villa
+Dubai Marina,1209,3,2,"Maid Room, Security, Balcony, Pool",Unfurnished,None,Damac,2021,2,101352,1460636,Apartment
+Palm Jumeirah,1756,2,2,"Smart Home, Kids Area, Gym, Maid Room",Furnished,Sea,Azizi,2015,1,150185,2495549,Apartment
+The Springs,1826,3,3,"Maid Room, Pool, Pet Friendly, Kids Area, Gym, Security",Unfurnished,Street,Meraas,2003,2,138391,2698154,Apartment
+Arabian Ranches,1972,3,2,"Smart Home, Kids Area, Pool",Semi-Furnished,Sea,Nakheel,2023,1,155686,2576884,Apartment
+Arabian Ranches,1656,3,3,"Balcony, Smart Home, Parking, Gym",Semi-Furnished,Street,Meraas,2022,3,65896,1436197,Apartment
+The Springs,968,3,4,"Parking, Balcony, Kids Area, Pet Friendly, Security, Pool",Furnished,None,Nakheel,2023,1,52792,776282,Apartment
+Business Bay,3292,3,2,"Maid Room, Security, Kids Area",Unfurnished,Street,Emaar,2013,3,288546,4849444,Townhouse
+Arabian Ranches,1233,2,1,"Smart Home, Kids Area, Security, Gym, Pool, Maid Room",Semi-Furnished,Street,Azizi,2014,2,39796,868189,Apartment
+Dubai Marina,3454,2,3,"Pet Friendly, Pool, Smart Home, Maid Room",Furnished,City,Damac,2002,3,201035,4922967,Townhouse
+The Springs,3013,4,4,"Balcony, Pool, Maid Room, Smart Home, Parking",Furnished,City,Azizi,2007,1,278155,4747733,Townhouse
+Dubai Marina,4871,3,2,"Gym, Pet Friendly, Parking",Unfurnished,Sea,Nakheel,2001,2,242834,4163676,Villa
+The Springs,1787,1,2,"Security, Pet Friendly, Balcony",Furnished,None,Sobha,2007,3,139558,2376673,Apartment
+Palm Jumeirah,1276,3,4,"Kids Area, Gym, Balcony",Unfurnished,City,Azizi,2006,1,57740,998025,Apartment
+Dubai Marina,796,3,2,"Kids Area, Pet Friendly, Balcony, Maid Room, Security",Semi-Furnished,Park,Nakheel,2004,1,29398,595720,Apartment
+The Springs,1734,2,2,"Parking, Smart Home, Maid Room, Security",Semi-Furnished,City,Damac,2000,3,122346,2027309,Apartment
+JVC,1545,1,1,"Balcony, Maid Room, Kids Area, Pool, Gym",Semi-Furnished,Park,Meraas,2015,3,104619,1936615,Apartment
+Arabian Ranches,2959,3,4,"Pet Friendly, Kids Area, Pool, Gym, Balcony",Furnished,Street,Nakheel,2000,3,141997,3027131,Townhouse
+Business Bay,1904,2,3,"Balcony, Pet Friendly, Pool, Gym, Parking, Kids Area",Furnished,City,Emaar,2017,1,82463,1549706,Apartment
+Arabian Ranches,460,1,1,"Parking, Balcony, Maid Room, Kids Area, Pool",Semi-Furnished,None,Nakheel,2005,1,21538,329909,Apartment
+Dubai Marina,1787,1,1,"Kids Area, Balcony, Parking",Semi-Furnished,Park,Damac,2011,3,83481,1495875,Apartment
+The Springs,1933,2,1,"Balcony, Maid Room, Security, Smart Home",Unfurnished,City,Damac,2019,2,162596,3434905,Townhouse
+JVC,4905,4,5,"Parking, Kids Area, Pool, Gym, Maid Room",Furnished,None,Azizi,2015,1,476003,7491399,Villa
+Dubai Marina,1194,3,4,"Smart Home, Maid Room, Pool, Parking, Kids Area",Unfurnished,Street,Meraas,2015,2,56820,1092114,Apartment
+JVC,815,2,1,"Balcony, Security, Maid Room, Pet Friendly, Smart Home, Pool",Semi-Furnished,City,Azizi,2002,1,51809,1060558,Apartment
+Arabian Ranches,484,2,3,"Pet Friendly, Smart Home, Balcony, Maid Room, Kids Area",Semi-Furnished,Street,Damac,2008,2,18550,348370,Apartment
+JLT,3970,3,3,"Security, Balcony, Gym",Furnished,Sea,Damac,2001,3,182276,3971217,Villa
+Arabian Ranches,1926,3,3,"Parking, Security, Gym, Maid Room",Semi-Furnished,City,Sobha,2012,3,101530,2515827,Apartment
+Downtown,2266,2,3,"Smart Home, Balcony, Security, Pet Friendly",Unfurnished,Street,Meraas,2014,2,178171,3607279,Townhouse
+Business Bay,1829,2,1,"Smart Home, Gym, Parking, Pool, Security, Kids Area",Semi-Furnished,Sea,Sobha,2021,2,93452,1777527,Apartment
+The Springs,5328,5,5,"Gym, Parking, Pool",Semi-Furnished,None,Meraas,2019,3,378639,7320025,Villa
+The Springs,1200,1,2,"Balcony, Smart Home, Gym, Parking, Security, Maid Room",Unfurnished,City,Emaar,2005,1,67444,1487890,Apartment
+Palm Jumeirah,807,1,1,"Balcony, Maid Room, Parking, Kids Area, Security",Furnished,Street,Emaar,2011,3,28489,572032,Apartment
+The Springs,626,1,2,"Smart Home, Pool, Balcony, Maid Room, Kids Area, Security",Semi-Furnished,Street,Meraas,2021,2,29640,517717,Apartment
+JLT,1429,3,4,"Security, Balcony, Gym, Pool, Smart Home, Pet Friendly",Semi-Furnished,None,Nakheel,2016,2,135472,2040957,Apartment
+Palm Jumeirah,480,3,2,"Smart Home, Kids Area, Maid Room, Pet Friendly, Parking",Semi-Furnished,None,Nakheel,2013,1,23702,404957,Apartment
+The Springs,1749,1,2,"Pet Friendly, Gym, Pool",Furnished,City,Meraas,2017,2,90602,2157086,Apartment
+Business Bay,2642,4,3,"Pool, Maid Room, Security, Parking, Balcony",Semi-Furnished,Park,Damac,2006,3,91049,2231526,Townhouse
+Palm Jumeirah,1927,2,1,"Gym, Maid Room, Parking, Smart Home, Pool, Pet Friendly",Unfurnished,Street,Sobha,2014,1,88142,1476156,Apartment
+Palm Jumeirah,971,1,1,"Pool, Parking, Smart Home",Furnished,None,Meraas,2012,1,46549,739968,Apartment
+JLT,1133,1,1,"Maid Room, Balcony, Smart Home",Unfurnished,Sea,Meraas,2016,3,83340,1393626,Apartment
+Dubai Marina,1031,2,1,"Gym, Pet Friendly, Smart Home",Furnished,Park,Damac,2007,1,41966,797075,Apartment
+JVC,793,3,4,"Balcony, Pool, Pet Friendly",Unfurnished,Park,Meraas,2005,1,35397,818807,Apartment
+Arabian Ranches,1683,1,2,"Maid Room, Pet Friendly, Balcony, Gym",Furnished,Park,Emaar,2011,2,73507,1411864,Apartment
+Arabian Ranches,835,2,1,"Security, Kids Area, Gym",Furnished,Park,Sobha,2009,3,64012,918216,Apartment
+Downtown,594,3,3,"Parking, Kids Area, Pool, Smart Home, Maid Room, Balcony",Furnished,City,Emaar,2019,3,34809,629122,Apartment
+Business Bay,1843,1,1,"Pool, Security, Maid Room",Unfurnished,Street,Nakheel,2019,1,70625,1378450,Apartment
+JLT,1169,1,2,"Balcony, Smart Home, Kids Area",Semi-Furnished,Park,Damac,2010,3,64017,1554275,Apartment
+The Springs,3681,3,2,"Kids Area, Balcony, Pool, Security, Gym",Unfurnished,Park,Meraas,2022,3,249080,3763616,Villa
+Arabian Ranches,1689,1,1,"Pool, Balcony, Gym, Kids Area, Maid Room, Security",Furnished,Sea,Nakheel,2018,3,156665,2305445,Apartment
+Business Bay,1272,3,3,"Parking, Balcony, Pool, Smart Home, Pet Friendly",Unfurnished,Park,Damac,2009,3,79538,1346560,Apartment
+JLT,2785,2,2,"Pet Friendly, Parking, Balcony, Maid Room, Kids Area, Security",Furnished,Street,Emaar,2024,2,145267,3418301,Townhouse
+JLT,712,3,4,"Security, Pet Friendly, Balcony, Parking",Semi-Furnished,City,Sobha,2017,3,38612,772288,Apartment
+Palm Jumeirah,788,1,1,"Smart Home, Pet Friendly, Balcony, Maid Room, Parking",Semi-Furnished,Street,Damac,2020,3,39697,596506,Apartment
+Dubai Marina,1558,1,1,"Security, Kids Area, Maid Room, Smart Home, Balcony, Parking",Unfurnished,Sea,Meraas,2012,2,94897,2007531,Apartment
+JVC,2540,4,5,"Parking, Security, Smart Home",Semi-Furnished,Park,Damac,2007,3,209632,3500988,Townhouse
+Downtown,1978,1,2,"Pet Friendly, Pool, Security, Smart Home, Balcony, Kids Area",Semi-Furnished,City,Meraas,2009,3,174236,2915862,Apartment
+The Springs,1903,2,3,"Pool, Kids Area, Pet Friendly",Furnished,City,Meraas,2006,3,95431,1937969,Apartment
+Downtown,1803,2,1,"Maid Room, Pet Friendly, Kids Area, Parking, Balcony, Pool",Furnished,City,Nakheel,2022,1,81801,1799431,Townhouse
+Dubai Marina,835,1,1,"Parking, Balcony, Maid Room",Semi-Furnished,Street,Meraas,2019,1,52386,1164565,Apartment
+JLT,655,2,1,"Gym, Balcony, Smart Home, Pet Friendly, Maid Room",Furnished,Sea,Damac,2024,1,51394,807128,Apartment
+JVC,1469,1,1,"Smart Home, Maid Room, Pet Friendly, Parking, Security",Semi-Furnished,City,Damac,2021,2,142095,2202847,Apartment
+Arabian Ranches,4050,3,3,"Pool, Gym, Balcony, Kids Area, Pet Friendly",Unfurnished,Park,Emaar,2019,1,327050,6759471,Villa
+Business Bay,1666,3,4,"Maid Room, Pet Friendly, Kids Area, Pool, Gym, Parking",Furnished,City,Emaar,2023,2,97291,2069744,Apartment
+Palm Jumeirah,1654,1,1,"Smart Home, Pool, Kids Area, Balcony, Parking, Maid Room",Unfurnished,Park,Azizi,2018,3,80023,1825535,Apartment
+Dubai Marina,1778,3,3,"Smart Home, Pool, Balcony, Kids Area",Unfurnished,Park,Nakheel,2006,1,138480,2316026,Apartment
+Dubai Marina,1865,1,1,"Pet Friendly, Security, Pool, Kids Area, Parking",Unfurnished,Street,Meraas,2003,3,84505,1508048,Apartment
+Palm Jumeirah,1816,2,1,"Kids Area, Pet Friendly, Maid Room",Unfurnished,Street,Meraas,2020,3,142064,2674965,Apartment
+Business Bay,636,2,1,"Pool, Kids Area, Smart Home",Unfurnished,Park,Meraas,2003,3,41479,632304,Apartment
+The Springs,403,2,1,"Pet Friendly, Maid Room, Parking, Smart Home",Unfurnished,Park,Azizi,2021,3,20413,472566,Apartment
+JVC,1343,2,1,"Balcony, Smart Home, Kids Area, Maid Room, Pool",Unfurnished,City,Nakheel,2023,3,120095,1852402,Apartment
+JVC,1032,3,4,"Security, Smart Home, Kids Area",Furnished,Street,Damac,2022,2,49577,770955,Apartment
+Downtown,2231,4,3,"Parking, Smart Home, Kids Area",Semi-Furnished,City,Meraas,2005,1,150730,3007260,Townhouse
+Palm Jumeirah,3351,3,3,"Maid Room, Security, Parking",Unfurnished,Park,Meraas,2017,2,149451,3006917,Townhouse
+JVC,3253,3,3,"Parking, Smart Home, Kids Area, Balcony",Semi-Furnished,Park,Nakheel,2006,3,192832,3238865,Townhouse
+Arabian Ranches,4857,3,4,"Pet Friendly, Maid Room, Kids Area, Pool",Furnished,Sea,Damac,2015,1,368868,8475771,Villa
+Arabian Ranches,704,3,4,"Balcony, Gym, Smart Home, Pool, Maid Room, Security",Semi-Furnished,None,Nakheel,2020,3,42783,704209,Apartment
+Dubai Marina,5851,6,6,"Kids Area, Gym, Smart Home, Pet Friendly, Maid Room, Security",Semi-Furnished,None,Nakheel,2000,3,459336,8033317,Villa
+JLT,2887,4,4,"Pet Friendly, Security, Smart Home, Pool, Gym, Parking",Furnished,None,Nakheel,2012,3,134143,2366607,Villa
+Palm Jumeirah,1597,3,4,"Balcony, Pool, Smart Home",Unfurnished,Park,Emaar,2017,2,93527,2140635,Apartment
+Downtown,1736,1,1,"Gym, Pool, Maid Room, Security, Parking",Semi-Furnished,None,Nakheel,2013,3,59572,1215318,Apartment
+JLT,4322,4,5,"Kids Area, Maid Room, Security, Pet Friendly, Smart Home, Pool",Unfurnished,Sea,Meraas,2001,1,160024,3616364,Villa
+Business Bay,3033,4,3,"Security, Parking, Kids Area, Maid Room, Balcony",Furnished,None,Damac,2008,2,197430,4397149,Townhouse
+Palm Jumeirah,920,3,3,"Maid Room, Balcony, Gym, Kids Area",Unfurnished,City,Meraas,2022,3,40203,785773,Apartment
+Downtown,714,2,2,"Gym, Balcony, Maid Room, Parking, Pet Friendly, Security",Unfurnished,None,Sobha,2002,2,44039,865469,Apartment
+Arabian Ranches,3099,4,4,"Pool, Pet Friendly, Maid Room",Semi-Furnished,Sea,Emaar,2005,3,233008,4736286,Villa
+Palm Jumeirah,1114,3,4,"Maid Room, Security, Smart Home, Gym, Kids Area",Furnished,City,Sobha,2005,2,90391,1498182,Apartment
+The Springs,661,2,1,"Parking, Maid Room, Balcony, Security",Unfurnished,City,Emaar,2023,3,59879,978015,Apartment
+Business Bay,4213,6,5,"Kids Area, Smart Home, Security, Parking, Maid Room, Balcony",Unfurnished,Park,Damac,2020,1,384264,7362026,Villa
+Arabian Ranches,3099,2,1,"Pool, Parking, Security, Gym",Furnished,City,Azizi,2015,1,287898,5460953,Townhouse
+Downtown,1454,3,4,"Pet Friendly, Gym, Security",Furnished,Sea,Meraas,2013,3,82543,1639326,Apartment
+JVC,3190,4,3,"Kids Area, Parking, Security",Semi-Furnished,Sea,Sobha,2015,2,213897,3095843,Villa
+Arabian Ranches,2311,4,3,"Security, Smart Home, Parking, Pet Friendly, Pool",Furnished,None,Sobha,2006,2,274819,3995970,Townhouse
+JVC,3065,3,2,"Gym, Smart Home, Parking, Pet Friendly, Kids Area",Furnished,Sea,Damac,2023,1,148353,3684338,Townhouse
+The Springs,573,3,4,"Pet Friendly, Pool, Balcony, Gym",Furnished,City,Nakheel,2015,2,29169,572683,Apartment
+Downtown,951,1,1,"Parking, Maid Room, Smart Home, Kids Area, Balcony, Gym",Semi-Furnished,Park,Emaar,2006,2,36095,696326,Apartment
+Arabian Ranches,2128,4,3,"Security, Pool, Balcony, Pet Friendly, Maid Room, Kids Area",Unfurnished,Park,Damac,2024,2,187571,2770355,Townhouse
+The Springs,620,1,1,"Kids Area, Gym, Pet Friendly, Maid Room",Furnished,Sea,Meraas,2010,2,57048,918313,Apartment
+The Springs,977,2,1,"Balcony, Parking, Kids Area, Security, Pool, Pet Friendly",Semi-Furnished,Sea,Damac,2022,1,63698,1204703,Apartment
+Palm Jumeirah,5817,3,4,"Balcony, Parking, Pool, Gym",Furnished,Street,Emaar,2008,1,530961,10058164,Villa
+Business Bay,504,2,2,"Balcony, Maid Room, Parking, Smart Home, Kids Area",Furnished,None,Sobha,2020,1,22860,475489,Apartment
+JLT,3257,3,2,"Gym, Parking, Maid Room, Pet Friendly, Kids Area",Unfurnished,City,Nakheel,2009,2,204736,3518079,Townhouse
+The Springs,1406,2,2,"Pool, Maid Room, Kids Area, Gym, Security",Furnished,City,Damac,2023,2,104945,1819849,Apartment
+Arabian Ranches,965,1,2,"Pool, Maid Room, Smart Home, Kids Area, Security, Gym",Furnished,None,Meraas,2006,1,82639,1219497,Apartment
+Dubai Marina,3067,3,3,"Balcony, Parking, Gym, Pool, Kids Area, Maid Room",Unfurnished,City,Azizi,2011,2,235565,3829094,Townhouse
+The Springs,1258,3,4,"Parking, Security, Kids Area",Furnished,City,Emaar,2018,1,102172,1680074,Apartment
+The Springs,1490,3,2,"Smart Home, Pet Friendly, Security, Balcony",Semi-Furnished,None,Damac,2006,1,59859,1047291,Apartment
+JVC,3419,4,4,"Security, Balcony, Parking, Kids Area, Pet Friendly",Unfurnished,Sea,Nakheel,2007,1,222297,4559461,Townhouse
+Downtown,2368,2,2,"Balcony, Maid Room, Security",Furnished,Sea,Meraas,2011,3,169942,3327417,Townhouse
+Dubai Marina,2924,3,4,"Pet Friendly, Security, Parking, Gym",Unfurnished,Sea,Damac,2007,3,233827,5161525,Townhouse
+JVC,1993,3,2,"Security, Balcony, Pet Friendly, Smart Home, Pool, Parking",Semi-Furnished,Park,Azizi,2020,2,77153,1643254,Apartment
+The Springs,1381,1,1,"Smart Home, Parking, Pet Friendly, Pool",Furnished,None,Sobha,2023,1,68347,1682129,Apartment
+Downtown,3474,3,4,"Pool, Parking, Gym, Balcony",Furnished,Street,Meraas,2012,1,233628,5295442,Townhouse
+JVC,4047,6,5,"Gym, Maid Room, Pool",Furnished,Sea,Damac,2004,3,361225,5664331,Villa
+JVC,2017,4,5,"Pool, Balcony, Maid Room, Smart Home, Security",Semi-Furnished,Park,Damac,2010,2,80237,1925253,Townhouse
+JLT,3004,3,2,"Maid Room, Security, Gym",Unfurnished,Street,Nakheel,2000,1,130730,2475298,Villa
+Downtown,987,1,2,"Pool, Smart Home, Maid Room, Gym, Pet Friendly, Kids Area",Semi-Furnished,City,Emaar,2019,2,53100,784349,Apartment
+Dubai Marina,3038,2,1,"Maid Room, Kids Area, Security, Pool, Balcony, Smart Home",Unfurnished,City,Azizi,2009,2,244989,5089871,Townhouse
+Palm Jumeirah,3587,3,2,"Parking, Kids Area, Pool, Balcony",Semi-Furnished,Street,Emaar,2003,3,272103,4402874,Villa
+Downtown,661,1,1,"Kids Area, Smart Home, Balcony, Pet Friendly, Maid Room",Unfurnished,City,Nakheel,2020,1,37577,665328,Apartment
+Palm Jumeirah,871,2,1,"Maid Room, Balcony, Kids Area, Gym, Pool, Parking",Furnished,Park,Emaar,2011,3,41364,939931,Apartment
+Dubai Marina,1115,2,1,"Smart Home, Parking, Pet Friendly, Security, Balcony",Furnished,Park,Nakheel,2001,3,62210,903418,Apartment
+Downtown,453,3,3,"Gym, Pool, Kids Area, Security, Maid Room",Semi-Furnished,None,Nakheel,2000,1,19043,449464,Apartment
+Dubai Marina,1252,1,1,"Parking, Security, Balcony, Pet Friendly, Maid Room, Kids Area",Unfurnished,Sea,Damac,2003,1,55509,936496,Apartment
+Downtown,422,2,2,"Maid Room, Security, Smart Home, Pet Friendly, Parking, Pool",Semi-Furnished,Park,Damac,2002,3,28979,422864,Apartment
+Business Bay,514,1,1,"Maid Room, Pool, Pet Friendly, Kids Area",Semi-Furnished,Street,Damac,2020,3,27063,526377,Apartment
+JVC,3124,3,2,"Pool, Maid Room, Gym, Parking, Security",Semi-Furnished,Sea,Nakheel,2009,1,175855,4191058,Townhouse
+JVC,3766,4,5,"Gym, Balcony, Parking, Maid Room",Unfurnished,None,Emaar,2018,2,157449,3184833,Villa
+JLT,1130,2,2,"Kids Area, Pet Friendly, Maid Room, Parking",Furnished,Sea,Damac,2013,3,68624,1246234,Apartment
+Downtown,1182,2,3,"Security, Parking, Pool",Unfurnished,Street,Emaar,2020,1,81142,1728384,Apartment
+Business Bay,3139,2,3,"Maid Room, Kids Area, Balcony, Pool",Semi-Furnished,City,Damac,2019,2,161854,2636800,Townhouse
+The Springs,1650,3,2,"Smart Home, Pool, Pet Friendly, Gym",Furnished,City,Azizi,2002,2,63208,1279230,Apartment
+JLT,973,3,3,"Pool, Maid Room, Smart Home, Kids Area, Balcony",Semi-Furnished,Street,Damac,2024,2,52494,1187287,Apartment
+Dubai Marina,2799,2,2,"Pet Friendly, Maid Room, Smart Home, Security, Pool",Semi-Furnished,City,Azizi,2019,2,198639,3285138,Townhouse
+Palm Jumeirah,1797,1,2,"Balcony, Gym, Pool",Furnished,City,Sobha,2005,3,77286,1831905,Apartment
+The Springs,3170,2,2,"Smart Home, Maid Room, Gym, Pet Friendly, Pool, Kids Area",Semi-Furnished,Street,Nakheel,2012,2,137766,2740374,Townhouse
+Palm Jumeirah,1918,2,1,"Smart Home, Gym, Security, Pool, Balcony",Furnished,Park,Damac,2018,1,180719,2858296,Apartment
+JVC,2540,3,3,"Gym, Balcony, Pet Friendly, Maid Room",Unfurnished,Street,Damac,2008,3,109714,2479308,Townhouse
+JLT,1010,3,3,"Maid Room, Balcony, Kids Area, Parking, Pool, Gym",Furnished,Street,Damac,2024,2,42398,839942,Apartment
+The Springs,1496,3,2,"Kids Area, Pet Friendly, Smart Home, Gym, Security, Pool",Furnished,None,Azizi,2004,2,119183,1841950,Apartment
+Arabian Ranches,1339,1,1,"Pool, Pet Friendly, Parking, Security, Gym",Semi-Furnished,Park,Meraas,2014,3,84807,1975782,Apartment
+Business Bay,3268,6,7,"Pet Friendly, Balcony, Parking, Pool",Furnished,None,Emaar,2011,2,178442,2667313,Villa
+Dubai Marina,5157,6,6,"Kids Area, Maid Room, Pet Friendly, Security, Balcony, Parking",Furnished,Park,Sobha,2013,2,291423,5037848,Villa
+The Springs,1750,3,4,"Security, Pool, Gym, Pet Friendly, Kids Area, Maid Room",Unfurnished,Street,Emaar,2015,3,154447,2277417,Apartment
+Dubai Marina,4561,3,4,"Pet Friendly, Balcony, Pool, Smart Home, Security",Semi-Furnished,Sea,Nakheel,2015,1,334884,5247949,Villa
+Palm Jumeirah,1720,3,4,"Gym, Kids Area, Pet Friendly, Pool, Security, Parking",Semi-Furnished,City,Damac,2013,3,102945,1536378,Apartment
+The Springs,453,1,1,"Kids Area, Parking, Security, Balcony, Pool",Unfurnished,Street,Nakheel,2019,3,19096,459638,Apartment
+The Springs,1703,2,3,"Pet Friendly, Kids Area, Security, Pool",Semi-Furnished,Park,Emaar,2022,1,110760,1879099,Apartment
+The Springs,3084,3,4,"Kids Area, Balcony, Gym, Pet Friendly",Furnished,Street,Emaar,2020,3,172069,2939201,Townhouse
+Dubai Marina,451,3,4,"Smart Home, Kids Area, Pool, Pet Friendly",Unfurnished,Park,Damac,2006,3,38243,618936,Apartment
+The Springs,5200,3,3,"Parking, Gym, Kids Area",Unfurnished,Sea,Emaar,2014,3,212333,4797958,Villa
+JLT,1990,2,2,"Balcony, Pet Friendly, Gym, Maid Room, Smart Home",Semi-Furnished,Sea,Sobha,2020,1,105746,2010488,Townhouse
+Arabian Ranches,4346,4,3,"Gym, Parking, Kids Area, Security, Pet Friendly",Furnished,Sea,Damac,2011,2,452439,7800705,Villa
+JVC,1918,2,1,"Gym, Maid Room, Security, Pet Friendly",Furnished,Park,Damac,2003,1,61283,1387861,Apartment
+Dubai Marina,3018,5,5,"Balcony, Pool, Parking, Kids Area, Security, Pet Friendly",Semi-Furnished,Street,Sobha,2016,2,246921,5198046,Villa
+Business Bay,5438,5,5,"Security, Parking, Pet Friendly",Furnished,Street,Sobha,2014,2,365616,7593241,Villa
+Arabian Ranches,4987,6,6,"Kids Area, Maid Room, Smart Home, Gym",Semi-Furnished,Park,Emaar,2016,2,337545,6916316,Villa
+Arabian Ranches,634,1,1,"Parking, Kids Area, Pool, Gym, Pet Friendly, Maid Room",Semi-Furnished,Park,Damac,2003,1,24413,605388,Apartment
+Arabian Ranches,1562,2,1,"Pet Friendly, Security, Smart Home",Furnished,None,Nakheel,2003,3,83910,1440849,Apartment
+Dubai Marina,1723,2,3,"Kids Area, Maid Room, Pool, Pet Friendly, Gym, Balcony",Semi-Furnished,Sea,Damac,2013,1,62156,1377149,Apartment
+Arabian Ranches,884,3,2,"Gym, Maid Room, Balcony, Parking, Pool",Semi-Furnished,Sea,Azizi,2016,1,34714,857402,Apartment
+Palm Jumeirah,1250,3,3,"Kids Area, Maid Room, Balcony, Gym, Security",Semi-Furnished,Street,Azizi,2001,2,81576,1173443,Apartment
+Palm Jumeirah,2048,3,4,"Gym, Balcony, Maid Room",Furnished,Park,Emaar,2010,3,146063,3121670,Townhouse
+Dubai Marina,1155,3,2,"Security, Gym, Smart Home",Furnished,City,Emaar,2008,2,92062,1444139,Apartment
+The Springs,748,1,2,"Pool, Parking, Smart Home, Maid Room, Security, Balcony",Unfurnished,Street,Meraas,2003,3,48123,839309,Apartment
+Palm Jumeirah,2459,4,4,"Pool, Security, Pet Friendly, Parking",Unfurnished,Sea,Damac,2017,1,222717,3588863,Townhouse
+Business Bay,2807,6,5,"Gym, Balcony, Smart Home, Pet Friendly",Furnished,Street,Emaar,2010,1,284732,4530485,Villa
+Arabian Ranches,3777,6,7,"Maid Room, Pool, Smart Home, Pet Friendly",Semi-Furnished,Street,Sobha,2019,3,197020,3788409,Villa
+Dubai Marina,736,3,3,"Parking, Smart Home, Gym",Unfurnished,Sea,Nakheel,2000,2,25549,625323,Apartment
+Palm Jumeirah,642,3,2,"Pet Friendly, Balcony, Pool, Smart Home, Security",Semi-Furnished,None,Damac,2001,2,25305,589401,Apartment
+The Springs,4230,4,4,"Pet Friendly, Parking, Security, Smart Home",Unfurnished,None,Sobha,2016,2,159587,3845850,Villa
+Business Bay,2249,2,1,"Security, Balcony, Gym",Unfurnished,Sea,Damac,2007,3,175826,3372403,Townhouse
+The Springs,1903,3,3,"Balcony, Parking, Pet Friendly, Pool, Smart Home, Security",Unfurnished,None,Damac,2023,1,81300,1475574,Apartment
+Palm Jumeirah,5992,4,3,"Pool, Parking, Maid Room, Smart Home, Balcony",Furnished,Sea,Meraas,2015,2,307997,6795252,Villa
+JLT,2149,4,3,"Smart Home, Gym, Balcony, Pool, Pet Friendly",Furnished,Sea,Emaar,2018,3,250327,3847597,Townhouse
+Downtown,5675,3,2,"Kids Area, Smart Home, Balcony, Maid Room, Parking",Unfurnished,City,Meraas,2015,2,266981,6607341,Villa
+Arabian Ranches,1083,3,4,"Pool, Security, Kids Area, Smart Home, Gym, Maid Room",Semi-Furnished,Park,Meraas,2004,2,56296,1189421,Apartment
+The Springs,1924,1,1,"Pool, Security, Kids Area, Pet Friendly, Smart Home, Balcony",Unfurnished,Park,Damac,2021,2,140376,2713601,Apartment
+The Springs,2365,3,2,"Maid Room, Kids Area, Pet Friendly",Unfurnished,Sea,Sobha,2014,3,266666,4181681,Townhouse
+JLT,417,2,3,"Smart Home, Parking, Security, Maid Room",Unfurnished,None,Meraas,2005,2,19052,454304,Apartment
+JLT,483,1,1,"Gym, Smart Home, Parking",Furnished,Street,Damac,2021,1,15771,357382,Apartment
+JLT,4556,4,3,"Parking, Balcony, Smart Home, Security, Gym",Semi-Furnished,Park,Emaar,2015,2,288376,4778007,Villa
+The Springs,600,2,2,"Parking, Pet Friendly, Kids Area, Maid Room, Security",Furnished,Park,Damac,2004,2,33638,686056,Apartment
+Dubai Marina,1686,2,3,"Pet Friendly, Maid Room, Gym, Pool",Unfurnished,Street,Meraas,2010,3,149833,2441165,Apartment
+Palm Jumeirah,1355,2,2,"Gym, Maid Room, Pet Friendly, Balcony, Smart Home, Pool",Unfurnished,City,Nakheel,2018,3,79319,1352952,Apartment
+JLT,1204,1,1,"Smart Home, Maid Room, Pet Friendly",Furnished,Sea,Emaar,2008,3,54702,945909,Apartment
+JLT,1814,2,1,"Maid Room, Gym, Kids Area",Furnished,None,Nakheel,2017,3,117880,2673514,Apartment
+Downtown,1036,3,2,"Balcony, Pool, Gym, Pet Friendly, Smart Home, Kids Area",Unfurnished,Sea,Nakheel,2006,1,72639,1117837,Apartment
+Palm Jumeirah,649,2,2,"Parking, Balcony, Pet Friendly, Security, Maid Room, Smart Home",Unfurnished,None,Emaar,2013,1,35734,784613,Apartment
+Business Bay,1918,3,4,"Smart Home, Maid Room, Parking, Pet Friendly",Unfurnished,Sea,Azizi,2015,2,122464,2367118,Apartment
+Dubai Marina,1270,1,1,"Smart Home, Pool, Security, Balcony, Gym",Unfurnished,City,Emaar,2020,3,105268,1796512,Apartment
+JVC,2526,2,2,"Security, Gym, Pool, Parking, Maid Room, Pet Friendly",Semi-Furnished,None,Sobha,2016,1,109643,2461579,Townhouse
+Arabian Ranches,686,2,3,"Pet Friendly, Pool, Maid Room, Kids Area, Balcony",Semi-Furnished,Street,Azizi,2021,1,54008,796330,Apartment
+JLT,1063,3,4,"Pet Friendly, Pool, Gym, Maid Room, Smart Home",Furnished,Sea,Meraas,2003,2,83532,1538572,Apartment
+Business Bay,3455,4,3,"Parking, Pet Friendly, Smart Home",Semi-Furnished,Sea,Emaar,2019,2,206644,3159506,Townhouse
+Dubai Marina,1166,3,4,"Parking, Kids Area, Gym",Unfurnished,Street,Sobha,2004,3,62154,1351421,Apartment
+JLT,1790,2,1,"Parking, Pet Friendly, Smart Home, Security",Furnished,Sea,Azizi,2000,3,112682,2627479,Apartment
+JVC,1810,3,3,"Kids Area, Parking, Maid Room",Unfurnished,None,Sobha,2006,1,134465,2480369,Townhouse
+Arabian Ranches,1544,1,1,"Pet Friendly, Maid Room, Smart Home, Gym, Security, Kids Area",Furnished,None,Damac,2003,1,70492,1696809,Apartment
+Arabian Ranches,993,2,2,"Pool, Parking, Smart Home, Gym, Security",Unfurnished,Park,Azizi,2019,3,55229,943142,Apartment
+Dubai Marina,938,3,2,"Kids Area, Pet Friendly, Parking",Furnished,City,Emaar,2004,1,66179,1067134,Apartment
+JVC,549,3,4,"Kids Area, Pool, Balcony",Unfurnished,None,Emaar,2017,2,38494,800047,Apartment
+JVC,1417,3,2,"Pet Friendly, Smart Home, Parking, Pool, Gym",Furnished,Sea,Nakheel,2017,3,118929,1967129,Apartment
+JVC,506,2,2,"Pet Friendly, Maid Room, Security, Pool",Furnished,Street,Emaar,2019,2,24976,496604,Apartment
+JVC,588,3,2,"Pet Friendly, Gym, Maid Room, Smart Home",Unfurnished,Park,Emaar,2002,1,21401,471207,Apartment
+JVC,1633,3,2,"Parking, Pet Friendly, Balcony, Kids Area, Gym",Unfurnished,Sea,Emaar,2008,3,86356,1412036,Apartment
+Arabian Ranches,2251,3,4,"Kids Area, Security, Pet Friendly, Maid Room, Pool",Unfurnished,City,Damac,2022,3,122115,2934055,Townhouse
+The Springs,5047,6,6,"Balcony, Parking, Pet Friendly",Unfurnished,Park,Damac,2023,3,261044,5101354,Villa
+Downtown,881,3,3,"Pool, Gym, Balcony, Smart Home, Parking, Security",Unfurnished,Street,Damac,2002,1,47415,813404,Apartment
+Palm Jumeirah,1183,2,2,"Balcony, Maid Room, Smart Home",Furnished,Street,Azizi,2001,3,62821,1116892,Apartment
+Arabian Ranches,3046,3,3,"Gym, Kids Area, Smart Home, Security",Semi-Furnished,Street,Meraas,2023,1,277115,4896130,Townhouse
+JLT,2895,3,3,"Parking, Pet Friendly, Balcony, Kids Area, Pool",Furnished,Sea,Damac,2021,2,121767,2563629,Townhouse
+JLT,1208,1,2,"Kids Area, Security, Maid Room, Parking, Smart Home",Furnished,Sea,Damac,2018,3,55404,1155804,Apartment
+Downtown,435,2,1,"Gym, Kids Area, Balcony, Smart Home, Security, Pool",Semi-Furnished,Sea,Azizi,2002,2,34868,616671,Apartment
+Dubai Marina,928,2,2,"Parking, Balcony, Kids Area, Pool, Pet Friendly, Gym",Furnished,Sea,Meraas,2001,1,76198,1157729,Apartment
+Arabian Ranches,1869,1,1,"Security, Gym, Kids Area, Parking, Maid Room",Unfurnished,Sea,Azizi,2007,2,81239,1471521,Apartment
+Dubai Marina,885,1,1,"Pet Friendly, Pool, Kids Area, Balcony, Parking",Furnished,Sea,Damac,2019,2,44755,856669,Apartment
+Arabian Ranches,1002,3,2,"Kids Area, Gym, Parking, Pool",Unfurnished,Sea,Emaar,2019,1,74638,1349120,Apartment
+Arabian Ranches,2575,4,3,"Pet Friendly, Pool, Gym, Smart Home",Unfurnished,None,Azizi,2020,3,221863,3949924,Townhouse
+Dubai Marina,2880,2,3,"Maid Room, Smart Home, Parking, Pet Friendly, Pool, Kids Area",Furnished,City,Nakheel,2024,2,146798,2968965,Townhouse
+Dubai Marina,4322,6,6,"Kids Area, Pool, Parking",Unfurnished,Street,Azizi,2007,2,321497,6856006,Villa
+Downtown,2301,3,4,"Security, Maid Room, Parking, Pet Friendly",Furnished,Sea,Sobha,2013,3,235035,4103253,Townhouse
+Business Bay,2729,2,1,"Pet Friendly, Security, Maid Room",Unfurnished,Street,Meraas,2003,1,296208,4555953,Townhouse
+JVC,2799,4,5,"Pet Friendly, Kids Area, Pool, Balcony, Security, Maid Room",Unfurnished,City,Emaar,2010,2,227838,3894746,Villa
+JVC,1126,2,2,"Pet Friendly, Security, Maid Room, Balcony, Pool, Smart Home",Unfurnished,None,Azizi,2002,1,92198,1594955,Apartment
+Arabian Ranches,4357,6,6,"Parking, Security, Pet Friendly, Gym, Pool, Maid Room",Semi-Furnished,City,Emaar,2018,3,424443,7395143,Villa
+The Springs,1186,2,1,"Gym, Balcony, Smart Home, Security",Semi-Furnished,None,Azizi,2010,1,52151,1159761,Apartment
+JLT,1298,1,1,"Security, Pool, Smart Home, Kids Area, Parking",Furnished,Sea,Nakheel,2017,3,69086,1692451,Apartment
+JVC,2905,4,3,"Smart Home, Gym, Parking",Furnished,City,Azizi,2013,3,158337,3616215,Townhouse
+Palm Jumeirah,624,3,4,"Smart Home, Pet Friendly, Balcony",Semi-Furnished,Sea,Nakheel,2008,3,53213,770622,Apartment
+Dubai Marina,3411,3,3,"Maid Room, Kids Area, Parking, Balcony",Unfurnished,None,Meraas,2024,1,254130,5139728,Villa
+JVC,1844,3,3,"Maid Room, Gym, Kids Area, Pet Friendly",Furnished,Park,Nakheel,2018,2,120120,2577343,Apartment
+Business Bay,710,2,1,"Security, Parking, Pool, Kids Area, Gym, Pet Friendly",Furnished,Street,Emaar,2015,3,51747,844171,Apartment
+JVC,938,3,3,"Kids Area, Smart Home, Security, Maid Room",Furnished,City,Nakheel,2009,3,65218,1020588,Apartment
+The Springs,1512,2,2,"Balcony, Pool, Pet Friendly",Semi-Furnished,Street,Sobha,2010,1,80847,1859661,Apartment
+Palm Jumeirah,3152,2,2,"Parking, Smart Home, Pet Friendly, Balcony, Security, Kids Area",Unfurnished,Park,Emaar,2009,2,274860,4121200,Townhouse
+The Springs,1980,2,2,"Pet Friendly, Maid Room, Smart Home, Balcony, Kids Area",Semi-Furnished,City,Emaar,2008,2,127468,2539447,Apartment
+JVC,1239,1,2,"Maid Room, Balcony, Pet Friendly, Kids Area",Furnished,None,Azizi,2010,1,59554,1466937,Apartment
+JVC,1984,4,4,"Maid Room, Pool, Kids Area, Gym, Security",Furnished,City,Azizi,2006,1,168568,3250087,Townhouse
+Business Bay,730,2,2,"Balcony, Maid Room, Gym, Pet Friendly, Kids Area, Security",Unfurnished,Street,Sobha,2001,1,27544,676324,Apartment
+Business Bay,1935,1,1,"Parking, Security, Pet Friendly, Gym, Kids Area, Smart Home",Unfurnished,Street,Emaar,2000,3,153490,2639729,Apartment
+Downtown,1604,2,1,"Kids Area, Pet Friendly, Security, Maid Room, Gym",Semi-Furnished,City,Sobha,2006,1,87249,1461911,Apartment
+Palm Jumeirah,1279,1,1,"Maid Room, Security, Balcony, Parking, Smart Home, Pool",Semi-Furnished,Sea,Sobha,2023,2,117513,1868831,Apartment
+Dubai Marina,1583,1,1,"Smart Home, Kids Area, Balcony, Security",Furnished,City,Damac,2004,3,100462,2343875,Apartment
+Downtown,1403,3,2,"Parking, Pet Friendly, Security",Semi-Furnished,None,Meraas,2018,1,57446,1048246,Apartment
+The Springs,1091,1,1,"Pet Friendly, Gym, Parking, Kids Area, Pool",Unfurnished,Street,Azizi,2015,2,75368,1601130,Apartment
+Palm Jumeirah,4607,3,2,"Pool, Pet Friendly, Maid Room, Gym, Smart Home, Kids Area",Furnished,Park,Sobha,2003,1,425959,7765111,Villa
+Palm Jumeirah,1520,2,2,"Security, Pool, Balcony",Semi-Furnished,City,Azizi,2010,3,122120,2145686,Apartment
+Downtown,1471,3,2,"Maid Room, Security, Balcony, Pet Friendly, Pool",Semi-Furnished,Park,Nakheel,2016,3,80820,2005747,Apartment
+The Springs,1363,1,1,"Balcony, Maid Room, Kids Area, Gym, Security",Semi-Furnished,City,Emaar,2001,3,65483,1465164,Apartment
+Arabian Ranches,3425,5,6,"Balcony, Security, Parking",Semi-Furnished,None,Meraas,2009,2,254181,4878915,Villa
+JLT,1713,3,2,"Parking, Pool, Kids Area",Furnished,City,Nakheel,2008,3,85591,1339322,Apartment
+The Springs,1981,3,4,"Smart Home, Balcony, Pool, Gym, Pet Friendly",Furnished,Sea,Azizi,2004,1,109154,1647904,Apartment
+Arabian Ranches,506,1,2,"Pet Friendly, Smart Home, Parking, Maid Room, Security, Gym",Furnished,None,Sobha,2012,2,32420,640087,Apartment
+Arabian Ranches,1639,1,1,"Parking, Pet Friendly, Security, Balcony, Kids Area",Unfurnished,City,Meraas,2003,3,138606,2327068,Apartment
+Downtown,1148,2,3,"Pet Friendly, Balcony, Security, Maid Room, Pool",Semi-Furnished,City,Nakheel,2023,1,49988,983455,Apartment
+Business Bay,1035,2,1,"Security, Gym, Maid Room, Parking, Smart Home",Unfurnished,City,Meraas,2015,2,46309,760863,Apartment
+JLT,517,3,2,"Smart Home, Maid Room, Pool, Balcony, Security, Gym",Furnished,City,Emaar,2019,3,26402,425260,Apartment
+Downtown,644,1,1,"Kids Area, Pool, Pet Friendly",Unfurnished,City,Nakheel,2020,3,41520,830736,Apartment
+Arabian Ranches,2146,4,5,"Maid Room, Gym, Kids Area, Balcony, Pet Friendly",Unfurnished,Sea,Emaar,2006,3,97599,2033364,Townhouse
+Downtown,964,3,2,"Parking, Gym, Maid Room, Pet Friendly, Security, Kids Area",Furnished,City,Sobha,2018,3,50333,741196,Apartment
+Dubai Marina,585,1,2,"Parking, Kids Area, Security",Unfurnished,Sea,Nakheel,2000,1,38100,708058,Apartment
+Business Bay,1794,3,2,"Security, Gym, Balcony, Kids Area",Semi-Furnished,Park,Damac,2004,3,79929,1708664,Apartment
+Business Bay,808,1,1,"Smart Home, Security, Gym, Balcony, Parking",Unfurnished,City,Damac,2024,3,58636,903694,Apartment
+Downtown,1598,2,1,"Pet Friendly, Kids Area, Smart Home, Maid Room",Semi-Furnished,Park,Damac,2022,3,113610,1823779,Apartment
+JLT,1983,1,1,"Smart Home, Security, Gym, Pet Friendly",Unfurnished,Park,Sobha,2004,2,118661,2319032,Apartment
+The Springs,2638,5,6,"Kids Area, Gym, Pool",Semi-Furnished,Street,Damac,2010,3,204916,4492460,Villa
+Arabian Ranches,1356,3,2,"Smart Home, Maid Room, Security",Unfurnished,Street,Meraas,2012,2,88209,1854027,Apartment
+Arabian Ranches,4476,6,6,"Balcony, Pool, Maid Room",Semi-Furnished,City,Azizi,2012,3,205331,3708612,Villa
+JLT,3228,4,3,"Parking, Kids Area, Pet Friendly, Gym",Furnished,City,Nakheel,2011,2,207772,3860668,Townhouse
+Downtown,752,2,2,"Parking, Balcony, Pet Friendly",Furnished,Street,Emaar,2023,1,35080,619129,Apartment
+Arabian Ranches,726,2,1,"Maid Room, Pet Friendly, Kids Area, Pool, Balcony, Security",Semi-Furnished,Park,Emaar,2012,1,47170,693101,Apartment
+The Springs,3659,6,7,"Maid Room, Pool, Parking, Balcony, Security, Gym",Furnished,None,Nakheel,2024,1,214729,4277856,Villa
+JVC,5578,6,5,"Parking, Smart Home, Pool, Gym",Furnished,City,Sobha,2002,2,299829,6604723,Villa
+Downtown,1192,3,3,"Security, Pet Friendly, Pool",Furnished,Street,Meraas,2016,1,54277,1277750,Apartment
+Dubai Marina,4156,3,2,"Parking, Pet Friendly, Kids Area, Balcony, Gym",Semi-Furnished,Street,Sobha,2024,1,218923,4583878,Villa
+Dubai Marina,5786,6,7,"Smart Home, Kids Area, Pet Friendly, Security, Parking",Furnished,Park,Sobha,2017,2,409774,9664438,Villa
+JVC,1849,3,3,"Maid Room, Smart Home, Balcony, Gym",Semi-Furnished,City,Emaar,2003,2,81971,1975102,Apartment
+Arabian Ranches,1091,3,3,"Maid Room, Security, Pool",Semi-Furnished,City,Sobha,2000,2,61858,1047039,Apartment
+Dubai Marina,474,3,4,"Balcony, Parking, Gym, Security, Pet Friendly, Pool",Unfurnished,Park,Meraas,2015,2,33758,670318,Apartment
+Palm Jumeirah,3499,6,5,"Kids Area, Maid Room, Gym",Furnished,None,Meraas,2020,1,287037,4135513,Villa
+Dubai Marina,1704,3,3,"Pet Friendly, Gym, Pool, Kids Area, Parking, Smart Home",Semi-Furnished,Sea,Nakheel,2018,2,149037,2549072,Apartment
+Business Bay,2700,5,6,"Balcony, Pet Friendly, Parking, Kids Area, Pool, Smart Home",Unfurnished,Sea,Azizi,2012,1,192295,3991162,Villa
+The Springs,1248,3,2,"Security, Smart Home, Maid Room, Kids Area, Parking",Furnished,Park,Nakheel,2000,3,50197,1197689,Apartment
+JLT,4995,6,7,"Kids Area, Pet Friendly, Balcony, Security, Gym, Parking",Semi-Furnished,City,Damac,2014,1,392559,6303428,Villa
+Business Bay,748,3,3,"Pet Friendly, Gym, Kids Area, Security, Smart Home",Unfurnished,Street,Azizi,2011,1,45051,647798,Apartment
+Arabian Ranches,1937,2,2,"Gym, Parking, Security, Pet Friendly, Pool, Smart Home",Unfurnished,Street,Sobha,2024,1,122274,2520251,Apartment
+Palm Jumeirah,2568,4,3,"Pool, Maid Room, Balcony, Smart Home, Kids Area, Gym",Unfurnished,City,Nakheel,2005,3,258113,4568206,Townhouse
+Arabian Ranches,4212,5,5,"Pool, Kids Area, Security, Pet Friendly, Smart Home",Semi-Furnished,Park,Sobha,2015,2,309923,4575425,Villa
+Downtown,2163,3,3,"Maid Room, Kids Area, Pet Friendly",Semi-Furnished,Park,Meraas,2003,2,156855,2985281,Townhouse
+The Springs,1703,1,2,"Parking, Pool, Security, Pet Friendly",Unfurnished,Street,Emaar,2010,3,87480,1532619,Apartment
+Palm Jumeirah,4016,3,4,"Maid Room, Balcony, Pet Friendly, Pool, Smart Home, Parking",Unfurnished,Park,Nakheel,2015,3,343453,6913084,Villa
+JLT,463,1,2,"Smart Home, Balcony, Kids Area, Security, Maid Room, Pool",Furnished,Street,Azizi,2020,1,40500,621785,Apartment
+Downtown,1878,1,1,"Pet Friendly, Smart Home, Maid Room",Semi-Furnished,Sea,Sobha,2008,3,130441,2121901,Apartment
+JVC,1886,1,1,"Gym, Kids Area, Balcony, Smart Home, Security, Pet Friendly",Semi-Furnished,Sea,Emaar,2004,2,141407,2463780,Apartment
+Dubai Marina,4001,6,7,"Parking, Balcony, Pet Friendly, Smart Home, Pool",Semi-Furnished,Sea,Damac,2020,3,234224,3497152,Villa
+Palm Jumeirah,5600,5,5,"Smart Home, Kids Area, Pet Friendly, Balcony, Parking",Unfurnished,City,Azizi,2001,1,258295,5308934,Villa
+Business Bay,2954,3,4,"Security, Parking, Maid Room, Kids Area, Smart Home",Semi-Furnished,Street,Meraas,2009,1,277498,4560187,Townhouse
+Downtown,4073,5,6,"Gym, Balcony, Security, Parking",Furnished,None,Emaar,2008,2,386380,6195600,Villa
+The Springs,748,2,3,"Maid Room, Kids Area, Security, Parking",Semi-Furnished,Street,Meraas,2005,3,44273,812060,Apartment
+The Springs,532,2,1,"Balcony, Maid Room, Pool, Parking, Security",Unfurnished,Sea,Meraas,2006,2,33375,584685,Apartment
+JVC,3477,4,3,"Kids Area, Gym, Balcony, Maid Room",Furnished,City,Azizi,2002,2,263701,4705370,Townhouse
+Dubai Marina,1914,3,4,"Balcony, Security, Pet Friendly, Kids Area",Furnished,Park,Nakheel,2022,3,99066,2404110,Townhouse
+JLT,587,3,2,"Parking, Security, Gym",Furnished,Park,Nakheel,2018,3,27273,635031,Apartment
+JVC,1698,1,1,"Pool, Smart Home, Gym, Balcony, Maid Room, Pet Friendly",Unfurnished,None,Nakheel,2019,2,64302,1596066,Apartment
+The Springs,2028,4,4,"Smart Home, Gym, Parking, Balcony",Unfurnished,City,Sobha,2020,1,124740,2288880,Townhouse
+JLT,2413,3,4,"Kids Area, Security, Maid Room, Smart Home",Unfurnished,City,Meraas,2014,1,293205,4288453,Townhouse
+Palm Jumeirah,1443,2,2,"Parking, Pool, Pet Friendly, Balcony",Unfurnished,City,Emaar,2014,2,98077,1746472,Apartment
+Downtown,622,1,1,"Maid Room, Security, Parking, Smart Home, Balcony",Furnished,City,Azizi,2006,3,38265,769731,Apartment
+Business Bay,5718,4,3,"Kids Area, Smart Home, Maid Room, Security",Semi-Furnished,City,Nakheel,2008,2,644927,9916898,Villa
+Arabian Ranches,1083,3,3,"Smart Home, Security, Balcony, Maid Room, Pet Friendly",Semi-Furnished,Sea,Sobha,2001,2,68297,1064469,Apartment
+Palm Jumeirah,2579,4,3,"Security, Kids Area, Gym, Parking, Balcony",Semi-Furnished,City,Azizi,2017,3,119727,2577587,Villa
+Palm Jumeirah,2018,2,1,"Kids Area, Smart Home, Maid Room, Security",Semi-Furnished,Sea,Meraas,2012,3,217310,3551138,Townhouse
+Business Bay,1642,3,3,"Pool, Gym, Kids Area",Semi-Furnished,City,Azizi,2011,2,102375,2362648,Apartment
+Downtown,1951,3,4,"Parking, Maid Room, Security, Smart Home, Pet Friendly, Pool",Unfurnished,Sea,Sobha,2007,2,168415,2678202,Townhouse
+JLT,996,3,2,"Pool, Kids Area, Pet Friendly, Parking",Semi-Furnished,Park,Nakheel,2010,2,44691,878617,Apartment
+Business Bay,5383,5,5,"Parking, Pool, Kids Area",Semi-Furnished,Street,Sobha,2015,1,367217,8783303,Villa
+Arabian Ranches,1295,1,2,"Maid Room, Smart Home, Parking, Security, Pet Friendly",Unfurnished,Sea,Meraas,2002,3,56859,1001960,Apartment
+Dubai Marina,1451,1,2,"Balcony, Pool, Pet Friendly, Kids Area, Maid Room, Parking",Semi-Furnished,Street,Meraas,2004,3,63596,1399262,Apartment
+Arabian Ranches,1999,3,4,"Gym, Pet Friendly, Security, Parking, Maid Room, Balcony",Furnished,Sea,Nakheel,2010,2,107692,1639971,Apartment
+Arabian Ranches,1738,3,2,"Parking, Balcony, Pet Friendly, Pool, Kids Area",Semi-Furnished,Park,Emaar,2000,3,134178,2053511,Apartment
+Downtown,541,2,2,"Balcony, Maid Room, Parking, Pool",Semi-Furnished,City,Nakheel,2006,2,25902,390513,Apartment
+Palm Jumeirah,1168,1,1,"Pet Friendly, Gym, Balcony, Maid Room",Semi-Furnished,Park,Nakheel,2024,2,59883,1369098,Apartment
+Downtown,1584,3,4,"Parking, Balcony, Gym",Semi-Furnished,None,Damac,2023,2,75709,1634850,Apartment
+Dubai Marina,3973,6,6,"Smart Home, Gym, Maid Room",Semi-Furnished,Street,Sobha,2003,2,227282,4610239,Villa
+Dubai Marina,1735,2,1,"Pet Friendly, Smart Home, Gym",Semi-Furnished,City,Emaar,2004,1,58833,1460673,Apartment
+Downtown,1362,1,1,"Security, Kids Area, Maid Room, Balcony",Furnished,Street,Nakheel,2005,3,124841,2005191,Apartment
+Downtown,624,1,1,"Balcony, Security, Maid Room, Kids Area, Parking, Smart Home",Unfurnished,City,Emaar,2000,2,24407,451025,Apartment
+Downtown,1895,4,4,"Parking, Pool, Gym, Maid Room",Furnished,Sea,Sobha,2002,1,180769,3351744,Townhouse
+The Springs,2899,3,2,"Security, Smart Home, Balcony",Semi-Furnished,Park,Damac,2021,3,197363,3379024,Townhouse
+Dubai Marina,1933,3,2,"Balcony, Parking, Pet Friendly, Pool",Furnished,Sea,Meraas,2003,3,131722,1977595,Apartment
+Dubai Marina,913,1,2,"Kids Area, Smart Home, Maid Room, Security, Pet Friendly",Unfurnished,None,Damac,2024,1,45023,878630,Apartment
+Downtown,470,3,3,"Balcony, Parking, Gym",Furnished,Sea,Nakheel,2005,2,25738,450272,Apartment
+Palm Jumeirah,2184,4,5,"Smart Home, Balcony, Maid Room, Security, Parking, Pet Friendly",Furnished,City,Meraas,2024,3,188691,3764966,Townhouse
+Downtown,1398,3,3,"Kids Area, Security, Gym",Semi-Furnished,Street,Meraas,2000,3,52420,1119773,Apartment
+Palm Jumeirah,2046,4,5,"Parking, Kids Area, Maid Room, Balcony, Smart Home",Unfurnished,Sea,Azizi,2005,2,220646,3314574,Townhouse
+Business Bay,1793,1,1,"Kids Area, Parking, Security, Pet Friendly",Unfurnished,Sea,Azizi,2011,3,108479,1585619,Apartment
+Downtown,605,3,2,"Parking, Pet Friendly, Smart Home, Pool",Semi-Furnished,Sea,Sobha,2009,2,59447,859563,Apartment
+Palm Jumeirah,678,3,3,"Pool, Security, Kids Area",Unfurnished,City,Nakheel,2023,3,33468,796777,Apartment
+The Springs,1384,1,1,"Parking, Pet Friendly, Balcony, Security, Pool, Kids Area",Semi-Furnished,Sea,Nakheel,2008,1,85534,1957129,Apartment
+Downtown,691,3,3,"Gym, Pool, Security, Parking, Pet Friendly",Furnished,None,Sobha,2007,3,46946,725976,Apartment
+Palm Jumeirah,1944,3,3,"Gym, Pet Friendly, Smart Home, Parking, Maid Room",Unfurnished,Street,Sobha,2018,1,165435,2723532,Apartment
+Palm Jumeirah,3420,3,2,"Balcony, Smart Home, Pet Friendly, Kids Area, Maid Room",Semi-Furnished,Sea,Meraas,2003,2,348088,5616751,Villa
+JLT,3846,6,7,"Kids Area, Pool, Gym, Pet Friendly, Balcony",Furnished,None,Sobha,2007,3,227633,4745068,Villa
+Palm Jumeirah,1558,2,3,"Gym, Pool, Security, Kids Area, Maid Room, Pet Friendly",Furnished,Park,Damac,2018,3,114756,1974678,Apartment
+The Springs,2663,5,6,"Smart Home, Gym, Balcony, Kids Area, Pet Friendly, Maid Room",Furnished,None,Nakheel,2000,3,199760,4649464,Villa
+The Springs,3293,3,3,"Kids Area, Maid Room, Pool, Parking, Balcony",Furnished,City,Sobha,2022,3,223398,3501030,Townhouse
+Business Bay,1520,3,3,"Kids Area, Parking, Pet Friendly, Balcony, Gym, Smart Home",Semi-Furnished,None,Azizi,2023,1,71249,1448905,Apartment
+Dubai Marina,3781,6,7,"Pet Friendly, Balcony, Parking, Kids Area",Semi-Furnished,City,Damac,2014,2,404324,5878588,Villa
+Arabian Ranches,788,3,3,"Maid Room, Parking, Balcony, Security, Gym",Furnished,Sea,Emaar,2022,3,67575,1128225,Apartment
+JLT,1096,3,3,"Parking, Pet Friendly, Gym, Kids Area, Maid Room, Smart Home",Semi-Furnished,Park,Sobha,2001,1,74892,1247675,Apartment
+JLT,859,3,2,"Balcony, Smart Home, Kids Area, Pool",Furnished,Sea,Damac,2007,1,64885,1190595,Apartment
+Palm Jumeirah,1528,3,2,"Parking, Pet Friendly, Kids Area, Security, Balcony, Maid Room",Unfurnished,City,Damac,2013,2,102676,1515182,Apartment
+Business Bay,1131,1,2,"Kids Area, Balcony, Pet Friendly, Security",Unfurnished,Park,Emaar,2016,3,60379,1222147,Apartment
+Business Bay,5439,4,4,"Gym, Smart Home, Security, Balcony, Kids Area",Unfurnished,Street,Emaar,2005,1,419916,7396815,Villa
+JVC,2776,4,3,"Kids Area, Pool, Maid Room",Semi-Furnished,None,Damac,2023,1,229939,4201787,Townhouse
+Downtown,2240,4,4,"Maid Room, Security, Parking, Pool, Smart Home",Unfurnished,Street,Nakheel,2024,3,229710,3987599,Townhouse
+JVC,1908,4,4,"Pool, Maid Room, Security",Semi-Furnished,Park,Meraas,2006,1,214656,3395823,Townhouse
+Downtown,1860,4,4,"Kids Area, Pool, Gym",Semi-Furnished,None,Meraas,2021,2,153551,2985139,Townhouse
+Palm Jumeirah,1103,1,1,"Kids Area, Parking, Maid Room, Balcony, Smart Home",Semi-Furnished,Sea,Nakheel,2008,2,47964,949115,Apartment
+Dubai Marina,1939,1,2,"Gym, Maid Room, Security, Smart Home, Parking",Furnished,Park,Emaar,2016,1,70331,1364530,Apartment
+JVC,2963,4,4,"Parking, Balcony, Kids Area",Unfurnished,Street,Nakheel,2017,1,225770,5261619,Townhouse
+Downtown,1575,1,1,"Maid Room, Parking, Pet Friendly, Balcony",Furnished,None,Emaar,2017,1,104601,2119578,Apartment
+JLT,1798,1,2,"Pool, Smart Home, Maid Room, Security",Furnished,None,Damac,2014,3,105749,2046815,Apartment
+Palm Jumeirah,3169,4,3,"Balcony, Kids Area, Pool, Pet Friendly, Maid Room",Furnished,Street,Emaar,2011,1,367923,5439938,Townhouse
+Dubai Marina,1986,4,5,"Maid Room, Pet Friendly, Smart Home, Security, Pool",Semi-Furnished,City,Nakheel,2014,1,127610,2170616,Townhouse
+The Springs,568,2,1,"Pool, Kids Area, Security, Balcony, Pet Friendly, Smart Home",Semi-Furnished,Street,Damac,2024,3,39925,715180,Apartment
+JVC,582,2,3,"Kids Area, Gym, Security, Smart Home",Furnished,City,Sobha,2006,2,35600,856325,Apartment
+The Springs,4646,4,5,"Gym, Balcony, Maid Room, Smart Home, Pool",Furnished,City,Emaar,2022,1,343825,6017848,Villa
+JVC,1181,1,2,"Security, Gym, Pool",Unfurnished,City,Nakheel,2012,1,76724,1177961,Apartment
+JVC,1626,1,2,"Pet Friendly, Security, Pool, Kids Area, Parking",Semi-Furnished,Sea,Sobha,2013,2,100544,1499935,Apartment
+Palm Jumeirah,421,3,4,"Gym, Smart Home, Pool, Kids Area, Pet Friendly, Maid Room",Unfurnished,Sea,Emaar,2005,2,17791,317097,Apartment
+Downtown,2325,4,5,"Security, Maid Room, Parking, Smart Home, Pet Friendly, Gym",Furnished,Street,Nakheel,2002,3,176178,3828006,Townhouse
+JVC,623,1,1,"Pet Friendly, Parking, Gym",Unfurnished,Sea,Nakheel,2013,3,38592,620957,Apartment
+Palm Jumeirah,484,3,4,"Balcony, Kids Area, Gym, Security",Furnished,Park,Damac,2008,1,21830,474365,Apartment
+JVC,713,2,3,"Balcony, Parking, Kids Area",Furnished,City,Meraas,2023,2,27328,513536,Apartment
+Business Bay,3678,4,3,"Gym, Pool, Kids Area, Maid Room, Balcony",Unfurnished,None,Emaar,2019,3,242522,3567348,Villa
+Arabian Ranches,612,3,2,"Pet Friendly, Gym, Security",Furnished,Street,Azizi,2003,1,32908,801561,Apartment
+Dubai Marina,1375,3,4,"Security, Pet Friendly, Balcony, Kids Area, Pool, Smart Home",Unfurnished,City,Damac,2020,2,99735,1489541,Apartment
+Palm Jumeirah,1137,1,1,"Parking, Pet Friendly, Maid Room, Pool, Smart Home",Unfurnished,Sea,Sobha,2009,1,43659,834607,Apartment
+Business Bay,2056,4,4,"Pet Friendly, Maid Room, Balcony, Smart Home",Unfurnished,Street,Sobha,2012,2,119088,2392279,Townhouse
+The Springs,1485,1,1,"Balcony, Maid Room, Pet Friendly, Kids Area",Unfurnished,None,Damac,2014,3,131610,2064077,Apartment
+Arabian Ranches,3374,6,5,"Pool, Smart Home, Parking, Security, Balcony, Gym",Furnished,Park,Damac,2017,1,335450,4924864,Villa
+The Springs,1307,1,2,"Pet Friendly, Parking, Smart Home, Kids Area",Unfurnished,None,Nakheel,2020,2,97074,1516192,Apartment
+Downtown,1359,1,2,"Smart Home, Kids Area, Security, Pet Friendly",Unfurnished,Sea,Meraas,2003,1,42052,1044527,Apartment
+JVC,584,2,2,"Parking, Balcony, Maid Room, Gym",Semi-Furnished,None,Damac,2018,2,38544,630760,Apartment
+JLT,1550,1,1,"Pet Friendly, Pool, Security, Maid Room",Semi-Furnished,Park,Azizi,2017,3,115873,1667263,Apartment
+Business Bay,3159,2,2,"Gym, Parking, Balcony",Semi-Furnished,Street,Sobha,2005,1,304918,4378928,Townhouse
+Arabian Ranches,2997,4,3,"Gym, Smart Home, Kids Area, Security, Parking, Pet Friendly",Furnished,City,Emaar,2005,1,257440,4267821,Townhouse
+Downtown,1769,1,2,"Security, Pool, Parking, Maid Room, Balcony",Furnished,None,Azizi,2013,1,83512,1755153,Apartment
+JLT,1848,3,3,"Gym, Balcony, Kids Area, Parking",Semi-Furnished,Street,Sobha,2010,1,138490,1982601,Townhouse
+Palm Jumeirah,3863,3,2,"Gym, Security, Balcony",Furnished,Street,Sobha,2012,1,277889,5776298,Villa
+The Springs,1449,2,2,"Parking, Kids Area, Smart Home, Maid Room, Security",Furnished,Street,Damac,2008,1,140062,2073063,Apartment
+Dubai Marina,2452,4,3,"Parking, Pool, Smart Home",Furnished,Park,Damac,2002,1,158468,3363920,Townhouse
+Dubai Marina,1819,4,3,"Pool, Parking, Security, Kids Area, Balcony",Unfurnished,City,Meraas,2003,3,102510,1677078,Townhouse
+Business Bay,1966,2,1,"Gym, Pet Friendly, Smart Home",Unfurnished,Park,Nakheel,2001,3,85775,1728923,Townhouse
+Business Bay,804,3,3,"Smart Home, Security, Kids Area, Pet Friendly",Unfurnished,Sea,Sobha,2005,3,25664,566860,Apartment
+Business Bay,1510,3,2,"Pool, Balcony, Maid Room",Semi-Furnished,Park,Nakheel,2012,3,101076,2066936,Apartment
+The Springs,984,1,1,"Kids Area, Balcony, Security, Gym, Parking",Semi-Furnished,Park,Emaar,2001,1,72287,1077616,Apartment
+JVC,5849,6,5,"Gym, Pool, Parking, Security, Pet Friendly, Maid Room",Unfurnished,City,Meraas,2010,2,435751,6773800,Villa
+Arabian Ranches,1963,2,2,"Balcony, Parking, Gym, Kids Area",Semi-Furnished,Street,Sobha,2014,2,184692,2824279,Apartment
+The Springs,1351,2,1,"Pet Friendly, Maid Room, Gym, Pool",Semi-Furnished,Street,Meraas,2004,2,71112,1340959,Apartment
+Downtown,776,1,1,"Pet Friendly, Smart Home, Pool",Semi-Furnished,City,Nakheel,2000,2,38631,786697,Apartment
+JLT,1396,3,4,"Pet Friendly, Maid Room, Smart Home, Pool, Balcony, Gym",Semi-Furnished,Sea,Emaar,2010,3,73485,1509578,Apartment
+Business Bay,1412,1,1,"Gym, Security, Kids Area, Pool, Parking, Smart Home",Unfurnished,None,Sobha,2019,1,93064,1665161,Apartment
+Arabian Ranches,5805,4,4,"Pool, Gym, Balcony, Parking, Pet Friendly, Maid Room",Furnished,City,Meraas,2007,2,558142,8323623,Villa
+Palm Jumeirah,4773,5,6,"Balcony, Parking, Smart Home, Kids Area, Security",Furnished,None,Azizi,2007,1,332692,6150430,Villa
+JVC,595,2,1,"Pool, Smart Home, Balcony, Security, Parking",Furnished,Street,Sobha,2024,1,38298,793150,Apartment
+Downtown,1992,1,1,"Balcony, Gym, Parking, Pet Friendly",Unfurnished,Street,Azizi,2004,2,159201,2918945,Apartment
+Arabian Ranches,4696,4,5,"Pool, Security, Kids Area, Gym",Unfurnished,Park,Azizi,2016,2,252425,4922471,Villa
+JVC,818,1,1,"Gym, Pet Friendly, Maid Room",Semi-Furnished,Street,Nakheel,2014,3,36777,822593,Apartment
+Palm Jumeirah,2941,5,5,"Balcony, Smart Home, Parking, Pool, Security",Furnished,City,Emaar,2003,1,277501,4904816,Villa
+Arabian Ranches,1875,2,3,"Pet Friendly, Kids Area, Balcony",Furnished,City,Azizi,2024,1,113259,2277931,Apartment
+JVC,1914,4,5,"Smart Home, Pool, Gym, Maid Room",Furnished,Sea,Azizi,2005,3,124090,1981016,Townhouse
+Arabian Ranches,1245,2,1,"Pet Friendly, Gym, Security, Balcony, Kids Area, Pool",Unfurnished,Sea,Nakheel,2014,1,66419,986288,Apartment
+JLT,515,3,4,"Gym, Balcony, Smart Home",Furnished,Sea,Nakheel,2024,1,51603,751886,Apartment
+Downtown,1061,2,3,"Gym, Security, Balcony, Maid Room, Pet Friendly, Kids Area",Furnished,Park,Azizi,2001,1,51322,937504,Apartment
+Arabian Ranches,4882,5,6,"Pet Friendly, Balcony, Pool, Security",Furnished,None,Damac,2008,3,296120,5732935,Villa
+Business Bay,3549,5,4,"Security, Pet Friendly, Gym, Kids Area, Parking",Semi-Furnished,Sea,Sobha,2019,3,329610,5223582,Villa
+Business Bay,485,2,1,"Balcony, Security, Pet Friendly, Kids Area",Unfurnished,Park,Azizi,2009,2,30873,519446,Apartment
+Business Bay,916,1,2,"Security, Gym, Pool",Furnished,City,Nakheel,2015,3,46131,925945,Apartment
+The Springs,3176,6,6,"Balcony, Pool, Security, Gym, Kids Area",Furnished,None,Emaar,2000,2,269822,5494986,Villa
+The Springs,3153,3,2,"Balcony, Maid Room, Smart Home, Kids Area, Parking",Furnished,City,Sobha,2020,1,142045,3460322,Villa
+Dubai Marina,938,2,1,"Gym, Smart Home, Pool",Furnished,Sea,Emaar,2023,1,66474,998215,Apartment
+JLT,1839,3,3,"Parking, Balcony, Gym",Semi-Furnished,Street,Emaar,2001,2,103817,1923575,Apartment
+Downtown,2981,2,3,"Security, Maid Room, Kids Area",Semi-Furnished,Park,Damac,2000,3,211414,3195520,Townhouse
+Business Bay,5819,3,4,"Pet Friendly, Smart Home, Maid Room",Furnished,Sea,Damac,2011,1,436762,8135247,Villa
+Palm Jumeirah,1164,3,3,"Kids Area, Maid Room, Balcony, Pool",Unfurnished,Street,Damac,2014,2,67946,1529322,Apartment
+Palm Jumeirah,4170,5,5,"Security, Parking, Smart Home",Semi-Furnished,Street,Sobha,2024,3,311339,6929705,Villa
+JVC,1680,1,2,"Maid Room, Parking, Pet Friendly, Security, Pool",Furnished,Street,Emaar,2013,1,141207,2507237,Apartment
+Dubai Marina,921,3,4,"Balcony, Kids Area, Maid Room, Gym",Semi-Furnished,City,Azizi,2012,3,58448,1128697,Apartment
+Arabian Ranches,5317,3,2,"Parking, Balcony, Kids Area, Gym, Security, Pet Friendly",Semi-Furnished,Park,Emaar,2022,2,289067,5539427,Villa
+Business Bay,597,1,1,"Gym, Security, Maid Room",Furnished,Park,Meraas,2002,1,36933,538940,Apartment
+The Springs,3154,3,2,"Kids Area, Pet Friendly, Parking, Pool, Smart Home",Semi-Furnished,None,Azizi,2015,3,184097,4462289,Townhouse
+Palm Jumeirah,2823,3,3,"Security, Smart Home, Pet Friendly",Semi-Furnished,None,Emaar,2013,3,260087,3915853,Townhouse
+Palm Jumeirah,2578,2,2,"Smart Home, Security, Maid Room",Furnished,Sea,Nakheel,2023,3,158001,3689888,Townhouse
+The Springs,3488,6,5,"Security, Smart Home, Pool, Maid Room, Balcony",Furnished,Sea,Meraas,2004,3,367837,5799555,Villa
+Palm Jumeirah,771,2,2,"Maid Room, Gym, Parking, Security, Smart Home, Balcony",Furnished,Street,Damac,2005,1,35896,718748,Apartment
+Dubai Marina,5929,3,2,"Smart Home, Balcony, Gym, Maid Room, Pool, Kids Area",Furnished,City,Nakheel,2007,2,567890,9875138,Villa
+Palm Jumeirah,1310,3,2,"Parking, Maid Room, Pool",Unfurnished,None,Azizi,2000,2,91721,1436960,Apartment
+The Springs,1475,3,3,"Pet Friendly, Smart Home, Gym",Semi-Furnished,Street,Azizi,2022,2,47368,1111487,Apartment
+Arabian Ranches,1438,1,1,"Gym, Parking, Maid Room",Unfurnished,Park,Meraas,2006,2,99546,1765705,Apartment
+JLT,1744,1,2,"Pool, Gym, Maid Room, Pet Friendly, Kids Area, Parking",Furnished,Street,Emaar,2011,1,78010,1932625,Apartment
+JLT,418,2,1,"Balcony, Smart Home, Pet Friendly, Pool, Kids Area",Unfurnished,Street,Sobha,2015,1,16818,325721,Apartment
+Dubai Marina,660,3,2,"Smart Home, Pool, Security",Furnished,Park,Meraas,2024,2,46041,905399,Apartment
+Business Bay,2632,2,2,"Kids Area, Pet Friendly, Gym",Furnished,City,Sobha,2014,3,201313,4306932,Townhouse
+Downtown,1443,2,3,"Balcony, Security, Maid Room, Gym",Semi-Furnished,None,Emaar,2013,1,101391,1658511,Apartment
+Downtown,2663,5,5,"Security, Smart Home, Kids Area, Parking, Pet Friendly, Maid Room",Semi-Furnished,Street,Azizi,2015,2,270349,4147403,Villa
+Downtown,586,3,3,"Maid Room, Pool, Parking, Kids Area, Pet Friendly",Semi-Furnished,City,Azizi,2016,1,37413,556958,Apartment
+Business Bay,1113,2,1,"Maid Room, Pet Friendly, Parking, Smart Home, Security",Semi-Furnished,Park,Azizi,2004,3,63145,1041781,Apartment
+Arabian Ranches,4764,5,4,"Maid Room, Parking, Gym, Kids Area, Smart Home, Pool",Furnished,None,Meraas,2010,1,516752,8038169,Villa
+Arabian Ranches,1391,3,3,"Maid Room, Kids Area, Pool, Parking, Security, Gym",Semi-Furnished,Sea,Sobha,2017,2,44632,977335,Apartment
+JLT,2731,4,5,"Maid Room, Pet Friendly, Pool, Parking, Gym",Semi-Furnished,Street,Azizi,2003,2,166889,3378717,Townhouse
+Downtown,1140,1,1,"Security, Pool, Maid Room",Unfurnished,City,Nakheel,2003,3,65726,1424292,Apartment
+JVC,1091,3,4,"Security, Pet Friendly, Pool, Smart Home, Kids Area",Unfurnished,None,Azizi,2024,2,79630,1573528,Apartment
+Business Bay,1533,3,3,"Parking, Pet Friendly, Pool, Security",Unfurnished,Sea,Nakheel,2002,3,137416,1981195,Apartment
+JLT,2055,2,1,"Balcony, Maid Room, Smart Home, Security, Pool, Kids Area",Furnished,City,Emaar,2000,1,160400,3023237,Townhouse
+The Springs,875,1,1,"Smart Home, Maid Room, Pool, Kids Area, Balcony, Security",Furnished,None,Damac,2006,3,60921,956563,Apartment
+Arabian Ranches,1422,3,4,"Smart Home, Balcony, Parking, Pool, Gym, Maid Room",Furnished,Street,Nakheel,2006,2,67382,1397274,Apartment
+JLT,2577,4,4,"Balcony, Pool, Maid Room",Unfurnished,Sea,Sobha,2018,2,121360,2988084,Townhouse
+The Springs,4237,3,3,"Kids Area, Balcony, Parking, Pet Friendly, Maid Room",Semi-Furnished,Park,Nakheel,2007,3,354940,6122502,Villa
+Business Bay,2581,3,2,"Pool, Parking, Gym, Security",Unfurnished,None,Emaar,2008,1,163000,3420480,Townhouse
+Downtown,1292,2,1,"Pet Friendly, Security, Pool, Smart Home",Furnished,Park,Emaar,2019,1,95001,1496248,Apartment
+Downtown,1363,2,1,"Gym, Balcony, Security, Kids Area",Furnished,Sea,Emaar,2008,1,97359,1536322,Apartment
+Arabian Ranches,3125,4,3,"Kids Area, Parking, Pet Friendly",Semi-Furnished,None,Emaar,2016,3,274426,5296369,Villa
+Downtown,719,1,1,"Security, Smart Home, Pool, Balcony, Pet Friendly",Unfurnished,Sea,Meraas,2007,1,54587,871506,Apartment
+Dubai Marina,2078,2,2,"Maid Room, Smart Home, Kids Area, Balcony, Security, Pet Friendly",Unfurnished,Street,Meraas,2016,2,188969,3296507,Townhouse
+The Springs,4644,6,5,"Parking, Gym, Pool, Smart Home, Security, Maid Room",Semi-Furnished,Sea,Azizi,2013,2,279655,5461084,Villa
+Arabian Ranches,1936,1,1,"Parking, Smart Home, Pet Friendly, Security, Pool, Maid Room",Semi-Furnished,Park,Nakheel,2000,1,131094,2754794,Apartment
+The Springs,1352,2,1,"Parking, Pet Friendly, Gym, Pool, Kids Area, Smart Home",Semi-Furnished,City,Emaar,2011,2,128559,1929998,Apartment
+The Springs,1002,2,3,"Gym, Smart Home, Maid Room, Parking, Kids Area, Pool",Semi-Furnished,None,Nakheel,2000,1,50194,818384,Apartment
+JLT,1443,1,2,"Gym, Smart Home, Balcony, Parking, Security",Semi-Furnished,City,Azizi,2010,2,91885,1434881,Apartment
+Dubai Marina,3353,3,3,"Maid Room, Pool, Smart Home",Semi-Furnished,City,Meraas,2022,2,303250,5134951,Townhouse
+Downtown,802,1,2,"Security, Pet Friendly, Pool, Gym, Kids Area, Parking",Furnished,Park,Nakheel,2013,3,43870,685654,Apartment
+Downtown,1563,2,1,"Pool, Parking, Pet Friendly",Furnished,City,Meraas,2015,1,92280,1368055,Apartment
+Downtown,2810,2,1,"Kids Area, Maid Room, Pet Friendly, Balcony, Parking, Security",Unfurnished,City,Azizi,2004,3,256091,4164299,Townhouse
+JLT,3393,2,1,"Pet Friendly, Smart Home, Parking",Semi-Furnished,None,Damac,2015,3,252468,6077924,Townhouse
+JLT,2327,2,1,"Balcony, Maid Room, Smart Home, Pool",Furnished,None,Azizi,2011,2,188728,3589452,Townhouse
+Arabian Ranches,896,1,2,"Pool, Kids Area, Gym, Balcony, Smart Home, Security",Furnished,Street,Sobha,2000,2,56578,1299267,Apartment
+Business Bay,1407,2,3,"Pet Friendly, Maid Room, Smart Home, Pool",Semi-Furnished,Park,Azizi,2005,2,57988,1164086,Apartment
+The Springs,2006,2,1,"Parking, Pet Friendly, Balcony",Furnished,Park,Emaar,2000,2,86293,1961011,Townhouse
+Arabian Ranches,5886,5,6,"Gym, Parking, Smart Home",Semi-Furnished,Sea,Emaar,2018,1,615000,10525254,Villa
+Business Bay,4100,6,5,"Security, Pool, Pet Friendly, Maid Room, Parking",Furnished,Sea,Sobha,2019,2,248402,3925315,Villa
+Dubai Marina,858,3,3,"Pet Friendly, Kids Area, Smart Home",Furnished,Street,Sobha,2011,3,48334,810912,Apartment
+The Springs,881,2,3,"Balcony, Maid Room, Smart Home, Pool, Kids Area",Furnished,Sea,Emaar,2018,1,50416,720784,Apartment
+Downtown,550,2,2,"Balcony, Smart Home, Maid Room, Pet Friendly, Gym",Unfurnished,None,Meraas,2018,2,36917,797471,Apartment
+Palm Jumeirah,3991,4,4,"Kids Area, Pool, Gym, Pet Friendly",Semi-Furnished,Street,Nakheel,2015,2,302211,5820192,Villa
+Arabian Ranches,1069,3,4,"Kids Area, Parking, Gym, Pool, Smart Home, Balcony",Furnished,Street,Damac,2004,1,71012,1504484,Apartment
