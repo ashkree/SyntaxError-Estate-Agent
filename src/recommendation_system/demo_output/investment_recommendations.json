@@ -1,0 +1,31 @@
+{
+  "rent_optimization": [
+    {
+      "property_id": "prop001",
+      "area": "Downtown",
+      "current_rent": 22000,
+      "market_mean_rent": 135382.2,
+      "market_median_rent": 94756.0,
+      "rent_diff_pct": 330.70909090909095,
+      "recommended_rent": 94756.0,
+      "rent_range_low": 54354.5,
+      "rent_range_high": 177960.0,
+      "recommendation": "Increase rent by 330.7% to match market rates"
+    }
+  ],
+  "market_insights": {
+    "Downtown": {
+      "avg_rental_yield": 5.127796328444744,
+      "price_trend": 2.211519421030271,
+      "rent_trend": 2.4256892057938484,
+      "investment_score": 10.101957910943844
+    }
+  },
+  "area_metrics": {
+    "undervalued_areas": "   AreaCode AreaName  InvestmentScore  ValScore  YieldScore  RentScore  LocScore  ValDiffPct  RentDiffPct  RentalYield  LocPremium     Category\n4         4      Jlt         6.198261  2.172925    0.878115   2.482172  0.665049   58.753921     1.879362    24.058175   -0.196362  Undervalued",
+    "overvalued_areas": "Empty DataFrame\nColumns: [AreaCode, AreaName, InvestmentScore, ValScore, YieldScore, RentScore, LocScore, ValDiffPct, RentDiffPct, RentalYield, LocPremium, Category]\nIndex: []",
+    "growth_areas": "Empty DataFrame\nColumns: [AreaCode, AreaName, InvestmentScore, ValScore, YieldScore, RentScore, LocScore, ValDiffPct, RentDiffPct, RentalYield, LocPremium, Category]\nIndex: []",
+    "high_yield_areas": "   AreaCode         AreaName  InvestmentScore  ValScore  YieldScore  ...  ValDiffPct  RentDiffPct  RentalYield  LocPremium     Category\n4         4              Jlt         6.198261  2.172925    0.878115  ...   58.753921     1.879362    24.058175   -0.196362  Undervalued\n2         0  Arabian Ranches         7.124327  2.403715    0.804813  ...    1.052477     0.976530     5.689350   -0.015305   High Yield\n1         1     Business Bay         7.125274  2.625837    0.669625  ...    1.278046     2.908045     5.601908   -0.000360   High Yield\n5         3     Dubai Marina         6.140068  2.213936    0.600000  ...    3.893174     1.867841     5.553984    0.079251   High Yield\n\n[4 rows x 12 columns]",
+    "all_areas": "   AreaCode         AreaName  InvestmentScore  ValScore  YieldScore  ...  ValDiffPct  RentDiffPct  RentalYield  LocPremium     Category\n0         2         Downtown        10.101958  4.066787    0.800000  ...    2.211519     2.425689     5.127796    0.630208      Neutral\n1         1     Business Bay         7.125274  2.625837    0.669625  ...    1.278046     2.908045     5.601908   -0.000360   High Yield\n2         0  Arabian Ranches         7.124327  2.403715    0.804813  ...    1.052477     0.976530     5.689350   -0.015305   High Yield\n3         5              Jvc         6.913894  2.247427    0.634864  ...    0.589937     1.678436     5.290654    0.015828      Neutral\n4         4              Jlt         6.198261  2.172925    0.878115  ...   58.753921     1.879362    24.058175   -0.196362  Undervalued\n5         3     Dubai Marina         6.140068  2.213936    0.600000  ...    3.893174     1.867841     5.553984    0.079251   High Yield\n6         6    Palm Jumeirah         5.391179  1.889699    0.255518  ...    0.553185     1.685519     5.338424   -0.176817      Neutral\n7         7      The Springs         4.674286  1.766377    0.283665  ...    0.704818     1.935494     5.484829   -0.336443      Neutral\n\n[8 rows x 12 columns]"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "decisions": [
+    {
+      "action": "BUY",
+      "area_code": 4,
+      "area_name": "Jlt",
+      "reason": "Significantly undervalued",
+      "metrics": {
+        "undervalued_pct": 58.753921381655154,
+        "investment_score": 6.198261120588026,
+        "rental_yield": 24.058174764235897
+      },
+      "timestamp": "2025-04-24T15:44:07.901055"
+    }
+  ],
+  "opportunities": {
+    "extreme_undervalued": [
+      {
+        "AreaCode": 4,
+        "AreaName": "Jlt",
+        "InvestmentScore": 6.198261120588026,
+        "ValScore": 2.1729251205052575,
+        "YieldScore": 0.8781153349817827,
+        "RentScore": 2.4821718863554736,
+        "LocScore": 0.6650487787455126,
+        "ValDiffPct": 58.753921381655154,
+        "RentDiffPct": 1.8793617843775867,
+        "RentalYield": 24.058174764235897,
+        "LocPremium": -0.1963616306244167,
+        "Category": "Undervalued"
+      }
+    ],
+    "high_growth": [],
+    "exceptional_yield": [
+      {
+        "AreaCode": 4,
+        "AreaName": "Jlt",
+        "InvestmentScore": 6.198261120588026,
+        "ValScore": 2.1729251205052575,
+        "YieldScore": 0.8781153349817827,
+        "RentScore": 2.4821718863554736,
+        "LocScore": 0.6650487787455126,
+        "ValDiffPct": 58.753921381655154,
+        "RentDiffPct": 1.8793617843775867,
+        "RentalYield": 24.058174764235897,
+        "LocPremium": -0.1963616306244167,
+        "Category": "Undervalued"
+      }
+    ]
+  },
+  "market_summary": {
+    "avg_yield": 7.768140172339857,
+    "median_yield": 5.287517239775678,
+    "undervalued_area_count": 1,
+    "overvalued_area_count": 0,
+    "growth_area_count": 0,
+    "high_yield_area_count": 4
+  },
+  "alert_metrics": {
+    "highest_undervalued": 58.753921381655154,
+    "highest_yield": 24.058174764235897,
+    "highest_growth": 0,
+    "decision_count": 1,
+    "opportunity_count": 2
+  }
+}
